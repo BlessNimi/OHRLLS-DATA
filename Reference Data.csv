@@ -1,0 +1,1166 @@
+﻿m49,iso2,iso3,Country.or.Area,capitalCity,Aggregates,Aggregates 2,African regions
+4,AF,AFG,Afghanistan,Kabul,Fragile and Conflict-Affected Situations,Asia,
+4,AF,AFG,Afghanistan,Kabul,Fragile and Conflict-Affected Situations,Rest of the world,
+4,AF,AFG,Afghanistan,Kabul,HIPC,Asia,
+4,AF,AFG,Afghanistan,Kabul,HIPC,Rest of the world,
+4,AF,AFG,Afghanistan,Kabul,LDC,Asia,
+4,AF,AFG,Afghanistan,Kabul,LDC,Rest of the world,
+4,AF,AFG,Afghanistan,Kabul,LLDC,Asia,
+4,AF,AFG,Afghanistan,Kabul,LLDC,Rest of the world,
+4,AF,AFG,Afghanistan,Kabul,Low income,Asia,
+4,AF,AFG,Afghanistan,Kabul,Low income,Rest of the world,
+8,AL,ALB,Albania,Tirane,Oil Exporting,Europe,
+8,AL,ALB,Albania,Tirane,Oil Exporting,Rest of the world,
+8,AL,ALB,Albania,Tirane,Upper middle income,Europe,
+8,AL,ALB,Albania,Tirane,Upper middle income,Rest of the world,
+12,DZ,DZA,Algeria,Algiers,Arab states,Africa,Northern Africa
+12,DZ,DZA,Algeria,Algiers,Arab states,Non-conflict African states,Northern Africa
+12,DZ,DZA,Algeria,Algiers,Lower middle income,Africa,Northern Africa
+12,DZ,DZA,Algeria,Algiers,Lower middle income,Non-conflict African states,Northern Africa
+12,DZ,DZA,Algeria,Algiers,Oil Exporting,Africa,Northern Africa
+12,DZ,DZA,Algeria,Algiers,Oil Exporting,Non-conflict African states,Northern Africa
+12,DZ,DZA,Algeria,Algiers,Transit countries,Africa,Northern Africa
+12,DZ,DZA,Algeria,Algiers,Transit countries,Non-conflict African states,Northern Africa
+16,AS,ASM,American Samoa,Pago Pago,SIDS,Oceania,
+16,AS,ASM,American Samoa,Pago Pago,SIDS,Rest of the world,
+16,AS,ASM,American Samoa,Pago Pago,Upper middle income,Oceania,
+16,AS,ASM,American Samoa,Pago Pago,Upper middle income,Rest of the world,
+20,AD,AND,Andorra,Andorra la Vella,High income,Europe,
+20,AD,AND,Andorra,Andorra la Vella,High income,Rest of the world,
+24,AO,AGO,Angola,Luanda,LDC,Africa,Southern Africa
+24,AO,AGO,Angola,Luanda,LDC,Non-conflict African states,Southern Africa
+24,AO,AGO,Angola,Luanda,Lower middle income,Africa,Southern Africa
+24,AO,AGO,Angola,Luanda,Lower middle income,Non-conflict African states,Southern Africa
+24,AO,AGO,Angola,Luanda,Oil Exporting,Africa,Southern Africa
+24,AO,AGO,Angola,Luanda,Oil Exporting,Non-conflict African states,Southern Africa
+24,AO,AGO,Angola,Luanda,Transit countries,Africa,Southern Africa
+24,AO,AGO,Angola,Luanda,Transit countries,Non-conflict African states,Southern Africa
+28,AG,ATG,Antigua and Barbuda,Saint John's,High income,Americas,
+28,AG,ATG,Antigua and Barbuda,Saint John's,High income,Rest of the world,
+28,AG,ATG,Antigua and Barbuda,Saint John's,SIDS,Americas,
+28,AG,ATG,Antigua and Barbuda,Saint John's,SIDS,Rest of the world,
+31,AZ,AZE,Azerbaijan,Baku,Fragile and Conflict-Affected Situations,Asia,
+31,AZ,AZE,Azerbaijan,Baku,Fragile and Conflict-Affected Situations,Rest of the world,
+31,AZ,AZE,Azerbaijan,Baku,LLDC,Asia,
+31,AZ,AZE,Azerbaijan,Baku,LLDC,Rest of the world,
+31,AZ,AZE,Azerbaijan,Baku,Oil Exporting,Asia,
+31,AZ,AZE,Azerbaijan,Baku,Oil Exporting,Rest of the world,
+31,AZ,AZE,Azerbaijan,Baku,Upper middle income,Asia,
+31,AZ,AZE,Azerbaijan,Baku,Upper middle income,Rest of the world,
+32,AR,ARG,Argentina,Buenos Aires,Oil Exporting,Americas,
+32,AR,ARG,Argentina,Buenos Aires,Oil Exporting,Rest of the world,
+32,AR,ARG,Argentina,Buenos Aires,Transit countries,Americas,
+32,AR,ARG,Argentina,Buenos Aires,Transit countries,Rest of the world,
+32,AR,ARG,Argentina,Buenos Aires,Upper middle income,Americas,
+32,AR,ARG,Argentina,Buenos Aires,Upper middle income,Rest of the world,
+36,AU,AUS,Australia,Canberra,High income,Oceania,
+36,AU,AUS,Australia,Canberra,High income,Rest of the world,
+36,AU,AUS,Australia,Canberra,OECD member,Oceania,
+36,AU,AUS,Australia,Canberra,OECD member,Rest of the world,
+36,AU,AUS,Australia,Canberra,Oil Exporting,Oceania,
+36,AU,AUS,Australia,Canberra,Oil Exporting,Rest of the world,
+40,AT,AUT,Austria,Vienna,High income,Europe,
+40,AT,AUT,Austria,Vienna,High income,Rest of the world,
+40,AT,AUT,Austria,Vienna,OECD member,Europe,
+40,AT,AUT,Austria,Vienna,OECD member,Rest of the world,
+44,BS,BHS,Bahamas,Nassau,High income,Americas,
+44,BS,BHS,Bahamas,Nassau,High income,Rest of the world,
+44,BS,BHS,Bahamas,Nassau,SIDS,Americas,
+44,BS,BHS,Bahamas,Nassau,SIDS,Rest of the world,
+48,BH,BHR,Bahrain,Manama,Arab states,Asia,
+48,BH,BHR,Bahrain,Manama,Arab states,Rest of the world,
+48,BH,BHR,Bahrain,Manama,High income,Asia,
+48,BH,BHR,Bahrain,Manama,High income,Rest of the world,
+48,BH,BHR,Bahrain,Manama,Oil Exporting,Asia,
+48,BH,BHR,Bahrain,Manama,Oil Exporting,Rest of the world,
+50,BD,BGD,Bangladesh,Dhaka,LDC,Asia,
+50,BD,BGD,Bangladesh,Dhaka,LDC,Rest of the world,
+50,BD,BGD,Bangladesh,Dhaka,Lower middle income,Asia,
+50,BD,BGD,Bangladesh,Dhaka,Lower middle income,Rest of the world,
+50,BD,BGD,Bangladesh,Dhaka,Transit countries,Asia,
+50,BD,BGD,Bangladesh,Dhaka,Transit countries,Rest of the world,
+51,AM,ARM,Armenia,Yerevan,Fragile and Conflict-Affected Situations,Asia,
+51,AM,ARM,Armenia,Yerevan,Fragile and Conflict-Affected Situations,Rest of the world,
+51,AM,ARM,Armenia,Yerevan,LLDC,Asia,
+51,AM,ARM,Armenia,Yerevan,LLDC,Rest of the world,
+51,AM,ARM,Armenia,Yerevan,Upper middle income,Asia,
+51,AM,ARM,Armenia,Yerevan,Upper middle income,Rest of the world,
+52,BB,BRB,Barbados,Bridgetown,High income,Americas,
+52,BB,BRB,Barbados,Bridgetown,High income,Rest of the world,
+52,BB,BRB,Barbados,Bridgetown,Oil Exporting,Americas,
+52,BB,BRB,Barbados,Bridgetown,Oil Exporting,Rest of the world,
+52,BB,BRB,Barbados,Bridgetown,SIDS,Americas,
+52,BB,BRB,Barbados,Bridgetown,SIDS,Rest of the world,
+56,BE,BEL,Belgium,Brussels,High income,Europe,
+56,BE,BEL,Belgium,Brussels,High income,Rest of the world,
+56,BE,BEL,Belgium,Brussels,OECD member,Europe,
+56,BE,BEL,Belgium,Brussels,OECD member,Rest of the world,
+60,BM,BMU,Bermuda,Hamilton,High income,Americas,
+60,BM,BMU,Bermuda,Hamilton,High income,Rest of the world,
+64,BT,BTN,Bhutan,Thimphu,LLDC,Asia,
+64,BT,BTN,Bhutan,Thimphu,LLDC,Rest of the world,
+64,BT,BTN,Bhutan,Thimphu,Lower middle income,Asia,
+64,BT,BTN,Bhutan,Thimphu,Lower middle income,Rest of the world,
+68,BO,BOL,Bolivia (Plurinational State of),La Paz,HIPC,Americas,
+68,BO,BOL,Bolivia (Plurinational State of),La Paz,HIPC,Rest of the world,
+68,BO,BOL,Bolivia (Plurinational State of),La Paz,LLDC,Americas,
+68,BO,BOL,Bolivia (Plurinational State of),La Paz,LLDC,Rest of the world,
+68,BO,BOL,Bolivia (Plurinational State of),La Paz,Lower middle income,Americas,
+68,BO,BOL,Bolivia (Plurinational State of),La Paz,Lower middle income,Rest of the world,
+68,BO,BOL,Bolivia (Plurinational State of),La Paz,Oil Exporting,Americas,
+68,BO,BOL,Bolivia (Plurinational State of),La Paz,Oil Exporting,Rest of the world,
+70,BA,BIH,Bosnia and Herzegovina,Sarajevo,Upper middle income,Europe,
+70,BA,BIH,Bosnia and Herzegovina,Sarajevo,Upper middle income,Rest of the world,
+72,BW,BWA,Botswana,Gaborone,LLDC,Africa,Southern Africa
+72,BW,BWA,Botswana,Gaborone,LLDC,Non-conflict African states,Southern Africa
+72,BW,BWA,Botswana,Gaborone,Upper middle income,Africa,Southern Africa
+72,BW,BWA,Botswana,Gaborone,Upper middle income,Non-conflict African states,Southern Africa
+76,BR,BRA,Brazil,Brasilia,Oil Exporting,Americas,
+76,BR,BRA,Brazil,Brasilia,Oil Exporting,Rest of the world,
+76,BR,BRA,Brazil,Brasilia,Transit countries,Americas,
+76,BR,BRA,Brazil,Brasilia,Transit countries,Rest of the world,
+76,BR,BRA,Brazil,Brasilia,Upper middle income,Americas,
+76,BR,BRA,Brazil,Brasilia,Upper middle income,Rest of the world,
+84,BZ,BLZ,Belize,Belmopan,Lower middle income,Americas,
+84,BZ,BLZ,Belize,Belmopan,Lower middle income,Rest of the world,
+84,BZ,BLZ,Belize,Belmopan,Oil Exporting,Americas,
+84,BZ,BLZ,Belize,Belmopan,Oil Exporting,Rest of the world,
+84,BZ,BLZ,Belize,Belmopan,SIDS,Americas,
+84,BZ,BLZ,Belize,Belmopan,SIDS,Rest of the world,
+90,SB,SLB,Solomon Islands,Honiara,Fragile and Conflict-Affected Situations,Oceania,
+90,SB,SLB,Solomon Islands,Honiara,Fragile and Conflict-Affected Situations,Rest of the world,
+90,SB,SLB,Solomon Islands,Honiara,LDC,Oceania,
+90,SB,SLB,Solomon Islands,Honiara,LDC,Rest of the world,
+90,SB,SLB,Solomon Islands,Honiara,Lower middle income,Oceania,
+90,SB,SLB,Solomon Islands,Honiara,Lower middle income,Rest of the world,
+90,SB,SLB,Solomon Islands,Honiara,SIDS,Oceania,
+90,SB,SLB,Solomon Islands,Honiara,SIDS,Rest of the world,
+92,VG,VGB,British Virgin Islands,Road Town,High income,Americas,
+92,VG,VGB,British Virgin Islands,Road Town,High income,Rest of the world,
+92,VG,VGB,British Virgin Islands,Road Town,SIDS,Americas,
+92,VG,VGB,British Virgin Islands,Road Town,SIDS,Rest of the world,
+96,BN,BRN,Brunei Darussalam,Bandar Seri Begawan,High income,Asia,
+96,BN,BRN,Brunei Darussalam,Bandar Seri Begawan,High income,Rest of the world,
+96,BN,BRN,Brunei Darussalam,Bandar Seri Begawan,Oil Exporting,Asia,
+96,BN,BRN,Brunei Darussalam,Bandar Seri Begawan,Oil Exporting,Rest of the world,
+100,BG,BGR,Bulgaria,Sofia,Upper middle income,Europe,
+100,BG,BGR,Bulgaria,Sofia,Upper middle income,Rest of the world,
+104,MM,MMR,Myanmar,Naypyidaw,Fragile and Conflict-Affected Situations,Asia,
+104,MM,MMR,Myanmar,Naypyidaw,Fragile and Conflict-Affected Situations,Rest of the world,
+104,MM,MMR,Myanmar,Naypyidaw,LDC,Asia,
+104,MM,MMR,Myanmar,Naypyidaw,LDC,Rest of the world,
+104,MM,MMR,Myanmar,Naypyidaw,Lower middle income,Asia,
+104,MM,MMR,Myanmar,Naypyidaw,Lower middle income,Rest of the world,
+104,MM,MMR,Myanmar,Naypyidaw,Transit countries,Asia,
+104,MM,MMR,Myanmar,Naypyidaw,Transit countries,Rest of the world,
+108,BI,BDI,Burundi,Bujumbura,Fragile and Conflict-Affected Situations,Africa,Central Africa
+108,BI,BDI,Burundi,Bujumbura,Fragile and Conflict-Affected Situations,Non-conflict African states,Central Africa
+108,BI,BDI,Burundi,Bujumbura,HIPC,Africa,Central Africa
+108,BI,BDI,Burundi,Bujumbura,HIPC,Non-conflict African states,Central Africa
+108,BI,BDI,Burundi,Bujumbura,LDC,Africa,Central Africa
+108,BI,BDI,Burundi,Bujumbura,LDC,Non-conflict African states,Central Africa
+108,BI,BDI,Burundi,Bujumbura,LLDC,Africa,Central Africa
+108,BI,BDI,Burundi,Bujumbura,LLDC,Non-conflict African states,Central Africa
+108,BI,BDI,Burundi,Bujumbura,Low income,Africa,Central Africa
+108,BI,BDI,Burundi,Bujumbura,Low income,Non-conflict African states,Central Africa
+112,BY,BLR,Belarus,Minsk,Upper middle income,Europe,
+112,BY,BLR,Belarus,Minsk,Upper middle income,Rest of the world,
+116,KH,KHM,Cambodia,Phnom Penh,LDC,Asia,
+116,KH,KHM,Cambodia,Phnom Penh,LDC,Rest of the world,
+116,KH,KHM,Cambodia,Phnom Penh,Lower middle income,Asia,
+116,KH,KHM,Cambodia,Phnom Penh,Lower middle income,Rest of the world,
+116,KH,KHM,Cambodia,Phnom Penh,Transit countries,Asia,
+116,KH,KHM,Cambodia,Phnom Penh,Transit countries,Rest of the world,
+120,CM,CMR,Cameroon,Yaounde,Fragile and Conflict-Affected Situations,Africa,Central Africa
+120,CM,CMR,Cameroon,Yaounde,Fragile and Conflict-Affected Situations,African Conflict-affected states,Central Africa
+120,CM,CMR,Cameroon,Yaounde,HIPC,Africa,Central Africa
+120,CM,CMR,Cameroon,Yaounde,HIPC,African Conflict-affected states,Central Africa
+120,CM,CMR,Cameroon,Yaounde,Lower middle income,Africa,Central Africa
+120,CM,CMR,Cameroon,Yaounde,Lower middle income,African Conflict-affected states,Central Africa
+120,CM,CMR,Cameroon,Yaounde,Oil Exporting,Africa,Central Africa
+120,CM,CMR,Cameroon,Yaounde,Oil Exporting,African Conflict-affected states,Central Africa
+120,CM,CMR,Cameroon,Yaounde,Transit countries,Africa,Central Africa
+120,CM,CMR,Cameroon,Yaounde,Transit countries,African Conflict-affected states,Central Africa
+124,CA,CAN,Canada,Ottawa,High income,Americas,
+124,CA,CAN,Canada,Ottawa,High income,Rest of the world,
+124,CA,CAN,Canada,Ottawa,OECD member,Americas,
+124,CA,CAN,Canada,Ottawa,OECD member,Rest of the world,
+124,CA,CAN,Canada,Ottawa,Oil Exporting,Americas,
+124,CA,CAN,Canada,Ottawa,Oil Exporting,Rest of the world,
+132,CV,CPV,Cabo Verde,Praia,Lower middle income,Africa,Western Africa
+132,CV,CPV,Cabo Verde,Praia,Lower middle income,Non-conflict African states,Western Africa
+132,CV,CPV,Cabo Verde,Praia,SIDS,Africa,Western Africa
+132,CV,CPV,Cabo Verde,Praia,SIDS,Non-conflict African states,Western Africa
+136,KY,CYM,Cayman Islands,George Town,High income,Americas,
+136,KY,CYM,Cayman Islands,George Town,High income,Rest of the world,
+140,CF,CAF,Central African Republic,Bangui,Fragile and Conflict-Affected Situations,Africa,Central Africa
+140,CF,CAF,Central African Republic,Bangui,Fragile and Conflict-Affected Situations,African Conflict-affected states,Central Africa
+140,CF,CAF,Central African Republic,Bangui,HIPC,Africa,Central Africa
+140,CF,CAF,Central African Republic,Bangui,HIPC,African Conflict-affected states,Central Africa
+140,CF,CAF,Central African Republic,Bangui,LDC,Africa,Central Africa
+140,CF,CAF,Central African Republic,Bangui,LDC,African Conflict-affected states,Central Africa
+140,CF,CAF,Central African Republic,Bangui,LLDC,Africa,Central Africa
+140,CF,CAF,Central African Republic,Bangui,LLDC,African Conflict-affected states,Central Africa
+140,CF,CAF,Central African Republic,Bangui,Low income,Africa,Central Africa
+140,CF,CAF,Central African Republic,Bangui,Low income,African Conflict-affected states,Central Africa
+144,LK,LKA,Sri Lanka,Colombo,Lower middle income,Asia,
+144,LK,LKA,Sri Lanka,Colombo,Lower middle income,Rest of the world,
+148,TD,TCD,Chad,N'Djamena,Fragile and Conflict-Affected Situations,Africa,Central Africa
+148,TD,TCD,Chad,N'Djamena,Fragile and Conflict-Affected Situations,Non-conflict African states,Central Africa
+148,TD,TCD,Chad,N'Djamena,HIPC,Africa,Central Africa
+148,TD,TCD,Chad,N'Djamena,HIPC,Non-conflict African states,Central Africa
+148,TD,TCD,Chad,N'Djamena,LDC,Africa,Central Africa
+148,TD,TCD,Chad,N'Djamena,LDC,Non-conflict African states,Central Africa
+148,TD,TCD,Chad,N'Djamena,LLDC,Africa,Central Africa
+148,TD,TCD,Chad,N'Djamena,LLDC,Non-conflict African states,Central Africa
+148,TD,TCD,Chad,N'Djamena,Low income,Africa,Central Africa
+148,TD,TCD,Chad,N'Djamena,Low income,Non-conflict African states,Central Africa
+148,TD,TCD,Chad,N'Djamena,Oil Exporting,Africa,Central Africa
+148,TD,TCD,Chad,N'Djamena,Oil Exporting,Non-conflict African states,Central Africa
+152,CL,CHL,Chile,Santiago,High income,Americas,
+152,CL,CHL,Chile,Santiago,High income,Rest of the world,
+152,CL,CHL,Chile,Santiago,OECD member,Americas,
+152,CL,CHL,Chile,Santiago,OECD member,Rest of the world,
+152,CL,CHL,Chile,Santiago,Transit countries,Americas,
+152,CL,CHL,Chile,Santiago,Transit countries,Rest of the world,
+156,CN,CHN,China,Beijing,Oil Exporting,Asia,
+156,CN,CHN,China,Beijing,Oil Exporting,Rest of the world,
+156,CN,CHN,China,Beijing,Transit countries,Asia,
+156,CN,CHN,China,Beijing,Transit countries,Rest of the world,
+156,CN,CHN,China,Beijing,Upper middle income,Asia,
+156,CN,CHN,China,Beijing,Upper middle income,Rest of the world,
+170,CO,COL,Colombia,Bogota,OECD member,Americas,
+170,CO,COL,Colombia,Bogota,OECD member,Rest of the world,
+170,CO,COL,Colombia,Bogota,Oil Exporting,Americas,
+170,CO,COL,Colombia,Bogota,Oil Exporting,Rest of the world,
+170,CO,COL,Colombia,Bogota,Upper middle income,Americas,
+170,CO,COL,Colombia,Bogota,Upper middle income,Rest of the world,
+174,KM,COM,Comoros,Moroni,Arab states,Africa,East Africa
+174,KM,COM,Comoros,Moroni,Arab states,Non-conflict African states,East Africa
+174,KM,COM,Comoros,Moroni,Fragile and Conflict-Affected Situations,Africa,East Africa
+174,KM,COM,Comoros,Moroni,Fragile and Conflict-Affected Situations,Non-conflict African states,East Africa
+174,KM,COM,Comoros,Moroni,HIPC,Africa,East Africa
+174,KM,COM,Comoros,Moroni,HIPC,Non-conflict African states,East Africa
+174,KM,COM,Comoros,Moroni,LDC,Africa,East Africa
+174,KM,COM,Comoros,Moroni,LDC,Non-conflict African states,East Africa
+174,KM,COM,Comoros,Moroni,Lower middle income,Africa,East Africa
+174,KM,COM,Comoros,Moroni,Lower middle income,Non-conflict African states,East Africa
+174,KM,COM,Comoros,Moroni,SIDS,Africa,East Africa
+174,KM,COM,Comoros,Moroni,SIDS,Non-conflict African states,East Africa
+178,CG,COG,Congo,Brazzaville,Fragile and Conflict-Affected Situations,Africa,Central Africa
+178,CG,COG,Congo,Brazzaville,Fragile and Conflict-Affected Situations,Non-conflict African states,Central Africa
+178,CG,COG,Congo,Brazzaville,HIPC,Africa,Central Africa
+178,CG,COG,Congo,Brazzaville,HIPC,Non-conflict African states,Central Africa
+178,CG,COG,Congo,Brazzaville,Lower middle income,Africa,Central Africa
+178,CG,COG,Congo,Brazzaville,Lower middle income,Non-conflict African states,Central Africa
+178,CG,COG,Congo,Brazzaville,Oil Exporting,Africa,Central Africa
+178,CG,COG,Congo,Brazzaville,Oil Exporting,Non-conflict African states,Central Africa
+180,CD,COD,Democratic Republic of the Congo,Kinshasa,Fragile and Conflict-Affected Situations,Africa,Central Africa
+180,CD,COD,Democratic Republic of the Congo,Kinshasa,Fragile and Conflict-Affected Situations,African Conflict-affected states,Central Africa
+180,CD,COD,Democratic Republic of the Congo,Kinshasa,HIPC,Africa,Central Africa
+180,CD,COD,Democratic Republic of the Congo,Kinshasa,HIPC,African Conflict-affected states,Central Africa
+180,CD,COD,Democratic Republic of the Congo,Kinshasa,LDC,Africa,Central Africa
+180,CD,COD,Democratic Republic of the Congo,Kinshasa,LDC,African Conflict-affected states,Central Africa
+180,CD,COD,Democratic Republic of the Congo,Kinshasa,Low income,Africa,Central Africa
+180,CD,COD,Democratic Republic of the Congo,Kinshasa,Low income,African Conflict-affected states,Central Africa
+180,CD,COD,Democratic Republic of the Congo,Kinshasa,Transit countries,Africa,Central Africa
+180,CD,COD,Democratic Republic of the Congo,Kinshasa,Transit countries,African Conflict-affected states,Central Africa
+184,CK,COK,Cook Islands,"",SIDS,Oceania,
+188,CR,CRI,Costa Rica,San Jose,OECD member,Americas,
+188,CR,CRI,Costa Rica,San Jose,OECD member,Rest of the world,
+188,CR,CRI,Costa Rica,San Jose,Upper middle income,Americas,
+188,CR,CRI,Costa Rica,San Jose,Upper middle income,Rest of the world,
+191,HR,HRV,Croatia,Zagreb,High income,Europe,
+191,HR,HRV,Croatia,Zagreb,High income,Rest of the world,
+192,CU,CUB,Cuba,Havana,Oil Exporting,Americas,
+192,CU,CUB,Cuba,Havana,Oil Exporting,Rest of the world,
+192,CU,CUB,Cuba,Havana,SIDS,Americas,
+192,CU,CUB,Cuba,Havana,SIDS,Rest of the world,
+192,CU,CUB,Cuba,Havana,Upper middle income,Americas,
+192,CU,CUB,Cuba,Havana,Upper middle income,Rest of the world,
+196,CY,CYP,Cyprus,Nicosia,High income,Asia,
+196,CY,CYP,Cyprus,Nicosia,High income,Rest of the world,
+203,CZ,CZE,Czechia,Prague,High income,Europe,
+203,CZ,CZE,Czechia,Prague,High income,Rest of the world,
+203,CZ,CZE,Czechia,Prague,OECD member,Europe,
+203,CZ,CZE,Czechia,Prague,OECD member,Rest of the world,
+203,CZ,CZE,Czechia,Prague,Oil Exporting,Europe,
+203,CZ,CZE,Czechia,Prague,Oil Exporting,Rest of the world,
+204,BJ,BEN,Benin,Porto-Novo,HIPC,Africa,Western Africa
+204,BJ,BEN,Benin,Porto-Novo,HIPC,Non-conflict African states,Western Africa
+204,BJ,BEN,Benin,Porto-Novo,LDC,Africa,Western Africa
+204,BJ,BEN,Benin,Porto-Novo,LDC,Non-conflict African states,Western Africa
+204,BJ,BEN,Benin,Porto-Novo,Lower middle income,Africa,Western Africa
+204,BJ,BEN,Benin,Porto-Novo,Lower middle income,Non-conflict African states,Western Africa
+204,BJ,BEN,Benin,Porto-Novo,Transit countries,Africa,Western Africa
+204,BJ,BEN,Benin,Porto-Novo,Transit countries,Non-conflict African states,Western Africa
+208,DK,DNK,Denmark,Copenhagen,High income,Europe,
+208,DK,DNK,Denmark,Copenhagen,High income,Rest of the world,
+208,DK,DNK,Denmark,Copenhagen,OECD member,Europe,
+208,DK,DNK,Denmark,Copenhagen,OECD member,Rest of the world,
+208,DK,DNK,Denmark,Copenhagen,Oil Exporting,Europe,
+208,DK,DNK,Denmark,Copenhagen,Oil Exporting,Rest of the world,
+212,DM,DMA,Dominica,Roseau,SIDS,Americas,
+212,DM,DMA,Dominica,Roseau,SIDS,Rest of the world,
+212,DM,DMA,Dominica,Roseau,Upper middle income,Americas,
+212,DM,DMA,Dominica,Roseau,Upper middle income,Rest of the world,
+214,DO,DOM,Dominican Republic,Santo Domingo,SIDS,Americas,
+214,DO,DOM,Dominican Republic,Santo Domingo,SIDS,Rest of the world,
+214,DO,DOM,Dominican Republic,Santo Domingo,Upper middle income,Americas,
+214,DO,DOM,Dominican Republic,Santo Domingo,Upper middle income,Rest of the world,
+218,EC,ECU,Ecuador,Quito,Oil Exporting,Americas,
+218,EC,ECU,Ecuador,Quito,Oil Exporting,Rest of the world,
+218,EC,ECU,Ecuador,Quito,Upper middle income,Americas,
+218,EC,ECU,Ecuador,Quito,Upper middle income,Rest of the world,
+222,SV,SLV,El Salvador,San Salvador,Lower middle income,Americas,
+222,SV,SLV,El Salvador,San Salvador,Lower middle income,Rest of the world,
+226,GQ,GNQ,Equatorial Guinea,Malabo,Oil Exporting,Africa,Central Africa
+226,GQ,GNQ,Equatorial Guinea,Malabo,Oil Exporting,Non-conflict African states,Central Africa
+226,GQ,GNQ,Equatorial Guinea,Malabo,Upper middle income,Africa,Central Africa
+226,GQ,GNQ,Equatorial Guinea,Malabo,Upper middle income,Non-conflict African states,Central Africa
+231,ET,ETH,Ethiopia,Addis Ababa,Fragile and Conflict-Affected Situations,Africa,East Africa
+231,ET,ETH,Ethiopia,Addis Ababa,Fragile and Conflict-Affected Situations,African Conflict-affected states,East Africa
+231,ET,ETH,Ethiopia,Addis Ababa,HIPC,Africa,East Africa
+231,ET,ETH,Ethiopia,Addis Ababa,HIPC,African Conflict-affected states,East Africa
+231,ET,ETH,Ethiopia,Addis Ababa,LDC,Africa,East Africa
+231,ET,ETH,Ethiopia,Addis Ababa,LDC,African Conflict-affected states,East Africa
+231,ET,ETH,Ethiopia,Addis Ababa,LLDC,Africa,East Africa
+231,ET,ETH,Ethiopia,Addis Ababa,LLDC,African Conflict-affected states,East Africa
+231,ET,ETH,Ethiopia,Addis Ababa,Low income,Africa,East Africa
+231,ET,ETH,Ethiopia,Addis Ababa,Low income,African Conflict-affected states,East Africa
+232,ER,ERI,Eritrea,Asmara,Fragile and Conflict-Affected Situations,Africa,East Africa
+232,ER,ERI,Eritrea,Asmara,Fragile and Conflict-Affected Situations,Non-conflict African states,East Africa
+232,ER,ERI,Eritrea,Asmara,HIPC,Africa,East Africa
+232,ER,ERI,Eritrea,Asmara,HIPC,Non-conflict African states,East Africa
+232,ER,ERI,Eritrea,Asmara,LDC,Africa,East Africa
+232,ER,ERI,Eritrea,Asmara,LDC,Non-conflict African states,East Africa
+232,ER,ERI,Eritrea,Asmara,Low income,Africa,East Africa
+232,ER,ERI,Eritrea,Asmara,Low income,Non-conflict African states,East Africa
+232,ER,ERI,Eritrea,Asmara,Transit countries,Africa,East Africa
+232,ER,ERI,Eritrea,Asmara,Transit countries,Non-conflict African states,East Africa
+233,EE,EST,Estonia,Tallinn,High income,Europe,
+233,EE,EST,Estonia,Tallinn,High income,Rest of the world,
+233,EE,EST,Estonia,Tallinn,OECD member,Europe,
+233,EE,EST,Estonia,Tallinn,OECD member,Rest of the world,
+233,EE,EST,Estonia,Tallinn,Oil Exporting,Europe,
+233,EE,EST,Estonia,Tallinn,Oil Exporting,Rest of the world,
+234,FO,FRO,Faroe Islands,Torshavn,High income,Europe,
+234,FO,FRO,Faroe Islands,Torshavn,High income,Rest of the world,
+242,FJ,FJI,Fiji,Suva,SIDS,Oceania,
+242,FJ,FJI,Fiji,Suva,SIDS,Rest of the world,
+242,FJ,FJI,Fiji,Suva,Upper middle income,Oceania,
+242,FJ,FJI,Fiji,Suva,Upper middle income,Rest of the world,
+246,FI,FIN,Finland,Helsinki,High income,Europe,
+246,FI,FIN,Finland,Helsinki,High income,Rest of the world,
+246,FI,FIN,Finland,Helsinki,OECD member,Europe,
+246,FI,FIN,Finland,Helsinki,OECD member,Rest of the world,
+250,FR,FRA,France,Paris,High income,Europe,
+250,FR,FRA,France,Paris,High income,Rest of the world,
+250,FR,FRA,France,Paris,OECD member,Europe,
+250,FR,FRA,France,Paris,OECD member,Rest of the world,
+258,PF,PYF,French Polynesia,Papeete,High income,Oceania,
+258,PF,PYF,French Polynesia,Papeete,High income,Rest of the world,
+258,PF,PYF,French Polynesia,Papeete,SIDS,Oceania,
+258,PF,PYF,French Polynesia,Papeete,SIDS,Rest of the world,
+262,DJ,DJI,Djibouti,Djibouti,Arab states,Africa,East Africa
+262,DJ,DJI,Djibouti,Djibouti,Arab states,Non-conflict African states,East Africa
+262,DJ,DJI,Djibouti,Djibouti,LDC,Africa,East Africa
+262,DJ,DJI,Djibouti,Djibouti,LDC,Non-conflict African states,East Africa
+262,DJ,DJI,Djibouti,Djibouti,Lower middle income,Africa,East Africa
+262,DJ,DJI,Djibouti,Djibouti,Lower middle income,Non-conflict African states,East Africa
+262,DJ,DJI,Djibouti,Djibouti,Transit countries,Africa,East Africa
+262,DJ,DJI,Djibouti,Djibouti,Transit countries,Non-conflict African states,East Africa
+266,GA,GAB,Gabon,Libreville,Oil Exporting,Africa,Central Africa
+266,GA,GAB,Gabon,Libreville,Oil Exporting,Non-conflict African states,Central Africa
+266,GA,GAB,Gabon,Libreville,Upper middle income,Africa,Central Africa
+266,GA,GAB,Gabon,Libreville,Upper middle income,Non-conflict African states,Central Africa
+268,GE,GEO,Georgia,Tbilisi,Oil Exporting,Asia,
+268,GE,GEO,Georgia,Tbilisi,Oil Exporting,Rest of the world,
+268,GE,GEO,Georgia,Tbilisi,Upper middle income,Asia,
+268,GE,GEO,Georgia,Tbilisi,Upper middle income,Rest of the world,
+270,GM,GMB,Gambia,Banjul,HIPC,Africa,Western Africa
+270,GM,GMB,Gambia,Banjul,HIPC,Non-conflict African states,Western Africa
+270,GM,GMB,Gambia,Banjul,LDC,Africa,Western Africa
+270,GM,GMB,Gambia,Banjul,LDC,Non-conflict African states,Western Africa
+270,GM,GMB,Gambia,Banjul,Low income,Africa,Western Africa
+270,GM,GMB,Gambia,Banjul,Low income,Non-conflict African states,Western Africa
+275,PS,PSE,State of Palestine,"",Arab states,Asia,
+275,PS,PSE,State of Palestine,"",Arab states,Rest of the world,
+275,PS,PSE,State of Palestine,"",Fragile and Conflict-Affected Situations,Asia,
+275,PS,PSE,State of Palestine,"",Fragile and Conflict-Affected Situations,Rest of the world,
+275,PS,PSE,State of Palestine,"",Lower middle income,Asia,
+275,PS,PSE,State of Palestine,"",Lower middle income,Rest of the world,
+276,DE,DEU,Germany,Berlin,High income,Europe,
+276,DE,DEU,Germany,Berlin,High income,Rest of the world,
+276,DE,DEU,Germany,Berlin,OECD member,Europe,
+276,DE,DEU,Germany,Berlin,OECD member,Rest of the world,
+276,DE,DEU,Germany,Berlin,Oil Exporting,Europe,
+276,DE,DEU,Germany,Berlin,Oil Exporting,Rest of the world,
+288,GH,GHA,Ghana,Accra,HIPC,Africa,Western Africa
+288,GH,GHA,Ghana,Accra,HIPC,Non-conflict African states,Western Africa
+288,GH,GHA,Ghana,Accra,Lower middle income,Africa,Western Africa
+288,GH,GHA,Ghana,Accra,Lower middle income,Non-conflict African states,Western Africa
+288,GH,GHA,Ghana,Accra,Transit countries,Africa,Western Africa
+288,GH,GHA,Ghana,Accra,Transit countries,Non-conflict African states,Western Africa
+292,GI,GIB,Gibraltar,"",High income,Europe,
+292,GI,GIB,Gibraltar,"",High income,Rest of the world,
+296,KI,KIR,Kiribati,Tarawa,Fragile and Conflict-Affected Situations,Oceania,
+296,KI,KIR,Kiribati,Tarawa,Fragile and Conflict-Affected Situations,Rest of the world,
+296,KI,KIR,Kiribati,Tarawa,LDC,Oceania,
+296,KI,KIR,Kiribati,Tarawa,LDC,Rest of the world,
+296,KI,KIR,Kiribati,Tarawa,Lower middle income,Oceania,
+296,KI,KIR,Kiribati,Tarawa,Lower middle income,Rest of the world,
+296,KI,KIR,Kiribati,Tarawa,SIDS,Oceania,
+296,KI,KIR,Kiribati,Tarawa,SIDS,Rest of the world,
+300,GR,GRC,Greece,Athens,High income,Europe,
+300,GR,GRC,Greece,Athens,High income,Rest of the world,
+300,GR,GRC,Greece,Athens,OECD member,Europe,
+300,GR,GRC,Greece,Athens,OECD member,Rest of the world,
+300,GR,GRC,Greece,Athens,Oil Exporting,Europe,
+300,GR,GRC,Greece,Athens,Oil Exporting,Rest of the world,
+304,GL,GRL,Greenland,Nuuk,High income,Americas,
+304,GL,GRL,Greenland,Nuuk,High income,Rest of the world,
+308,GD,GRD,Grenada,Saint George's,SIDS,Americas,
+308,GD,GRD,Grenada,Saint George's,SIDS,Rest of the world,
+308,GD,GRD,Grenada,Saint George's,Upper middle income,Americas,
+308,GD,GRD,Grenada,Saint George's,Upper middle income,Rest of the world,
+316,GU,GUM,Guam,Agana,High income,Oceania,
+316,GU,GUM,Guam,Agana,High income,Rest of the world,
+316,GU,GUM,Guam,Agana,SIDS,Oceania,
+316,GU,GUM,Guam,Agana,SIDS,Rest of the world,
+320,GT,GTM,Guatemala,Guatemala City,Oil Exporting,Americas,
+320,GT,GTM,Guatemala,Guatemala City,Oil Exporting,Rest of the world,
+320,GT,GTM,Guatemala,Guatemala City,Upper middle income,Americas,
+320,GT,GTM,Guatemala,Guatemala City,Upper middle income,Rest of the world,
+324,GN,GIN,Guinea,Conakry,HIPC,Africa,Western Africa
+324,GN,GIN,Guinea,Conakry,HIPC,Non-conflict African states,Western Africa
+324,GN,GIN,Guinea,Conakry,LDC,Africa,Western Africa
+324,GN,GIN,Guinea,Conakry,LDC,Non-conflict African states,Western Africa
+324,GN,GIN,Guinea,Conakry,Low income,Africa,Western Africa
+324,GN,GIN,Guinea,Conakry,Low income,Non-conflict African states,Western Africa
+324,GN,GIN,Guinea,Conakry,Transit countries,Africa,Western Africa
+324,GN,GIN,Guinea,Conakry,Transit countries,Non-conflict African states,Western Africa
+328,GY,GUY,Guyana,Georgetown,HIPC,Americas,
+328,GY,GUY,Guyana,Georgetown,HIPC,Rest of the world,
+328,GY,GUY,Guyana,Georgetown,SIDS,Americas,
+328,GY,GUY,Guyana,Georgetown,SIDS,Rest of the world,
+328,GY,GUY,Guyana,Georgetown,Upper middle income,Americas,
+328,GY,GUY,Guyana,Georgetown,Upper middle income,Rest of the world,
+332,HT,HTI,Haiti,Port-au-Prince,Fragile and Conflict-Affected Situations,Americas,
+332,HT,HTI,Haiti,Port-au-Prince,Fragile and Conflict-Affected Situations,Rest of the world,
+332,HT,HTI,Haiti,Port-au-Prince,HIPC,Americas,
+332,HT,HTI,Haiti,Port-au-Prince,HIPC,Rest of the world,
+332,HT,HTI,Haiti,Port-au-Prince,LDC,Americas,
+332,HT,HTI,Haiti,Port-au-Prince,LDC,Rest of the world,
+332,HT,HTI,Haiti,Port-au-Prince,Lower middle income,Americas,
+332,HT,HTI,Haiti,Port-au-Prince,Lower middle income,Rest of the world,
+332,HT,HTI,Haiti,Port-au-Prince,SIDS,Americas,
+332,HT,HTI,Haiti,Port-au-Prince,SIDS,Rest of the world,
+340,HN,HND,Honduras,Tegucigalpa,HIPC,Americas,
+340,HN,HND,Honduras,Tegucigalpa,HIPC,Rest of the world,
+340,HN,HND,Honduras,Tegucigalpa,Lower middle income,Americas,
+340,HN,HND,Honduras,Tegucigalpa,Lower middle income,Rest of the world,
+344,HK,HKG,"China, Hong Kong Special Administrative Region","",High income,Asia,
+344,HK,HKG,"China, Hong Kong Special Administrative Region","",High income,Rest of the world,
+348,HU,HUN,Hungary,Budapest,High income,Europe,
+348,HU,HUN,Hungary,Budapest,High income,Rest of the world,
+348,HU,HUN,Hungary,Budapest,OECD member,Europe,
+348,HU,HUN,Hungary,Budapest,OECD member,Rest of the world,
+352,IS,ISL,Iceland,Reykjavik,High income,Europe,
+352,IS,ISL,Iceland,Reykjavik,High income,Rest of the world,
+352,IS,ISL,Iceland,Reykjavik,OECD member,Europe,
+352,IS,ISL,Iceland,Reykjavik,OECD member,Rest of the world,
+356,IN,IND,India,New Delhi,Lower middle income,Asia,
+356,IN,IND,India,New Delhi,Lower middle income,Rest of the world,
+356,IN,IND,India,New Delhi,Transit countries,Asia,
+356,IN,IND,India,New Delhi,Transit countries,Rest of the world,
+360,ID,IDN,Indonesia,Jakarta,Lower middle income,Asia,
+360,ID,IDN,Indonesia,Jakarta,Lower middle income,Rest of the world,
+360,ID,IDN,Indonesia,Jakarta,Oil Exporting,Asia,
+360,ID,IDN,Indonesia,Jakarta,Oil Exporting,Rest of the world,
+364,IR,IRN,Iran (Islamic Republic of),Tehran,Lower middle income,Asia,
+364,IR,IRN,Iran (Islamic Republic of),Tehran,Lower middle income,Rest of the world,
+364,IR,IRN,Iran (Islamic Republic of),Tehran,Oil Exporting,Asia,
+364,IR,IRN,Iran (Islamic Republic of),Tehran,Oil Exporting,Rest of the world,
+364,IR,IRN,Iran (Islamic Republic of),Tehran,Transit countries,Asia,
+364,IR,IRN,Iran (Islamic Republic of),Tehran,Transit countries,Rest of the world,
+368,IQ,IRQ,Iraq,Baghdad,Arab states,Asia,
+368,IQ,IRQ,Iraq,Baghdad,Arab states,Rest of the world,
+368,IQ,IRQ,Iraq,Baghdad,Fragile and Conflict-Affected Situations,Asia,
+368,IQ,IRQ,Iraq,Baghdad,Fragile and Conflict-Affected Situations,Rest of the world,
+368,IQ,IRQ,Iraq,Baghdad,Oil Exporting,Asia,
+368,IQ,IRQ,Iraq,Baghdad,Oil Exporting,Rest of the world,
+368,IQ,IRQ,Iraq,Baghdad,Upper middle income,Asia,
+368,IQ,IRQ,Iraq,Baghdad,Upper middle income,Rest of the world,
+372,IE,IRL,Ireland,Dublin,High income,Europe,
+372,IE,IRL,Ireland,Dublin,High income,Rest of the world,
+372,IE,IRL,Ireland,Dublin,OECD member,Europe,
+372,IE,IRL,Ireland,Dublin,OECD member,Rest of the world,
+372,IE,IRL,Ireland,Dublin,Oil Exporting,Europe,
+372,IE,IRL,Ireland,Dublin,Oil Exporting,Rest of the world,
+376,IL,ISR,Israel,"",High income,Asia,
+376,IL,ISR,Israel,"",High income,Rest of the world,
+376,IL,ISR,Israel,"",OECD member,Asia,
+376,IL,ISR,Israel,"",OECD member,Rest of the world,
+380,IT,ITA,Italy,Rome,High income,Europe,
+380,IT,ITA,Italy,Rome,High income,Rest of the world,
+380,IT,ITA,Italy,Rome,OECD member,Europe,
+380,IT,ITA,Italy,Rome,OECD member,Rest of the world,
+380,IT,ITA,Italy,Rome,Oil Exporting,Europe,
+380,IT,ITA,Italy,Rome,Oil Exporting,Rest of the world,
+384,CI,CIV,Côte dIvoire,Yamoussoukro,HIPC,Africa,Western Africa
+384,CI,CIV,Côte dIvoire,Yamoussoukro,HIPC,Non-conflict African states,Western Africa
+384,CI,CIV,Côte dIvoire,Yamoussoukro,Lower middle income,Africa,Western Africa
+384,CI,CIV,Côte dIvoire,Yamoussoukro,Lower middle income,Non-conflict African states,Western Africa
+384,CI,CIV,Côte dIvoire,Yamoussoukro,Oil Exporting,Africa,Western Africa
+384,CI,CIV,Côte dIvoire,Yamoussoukro,Oil Exporting,Non-conflict African states,Western Africa
+384,CI,CIV,Côte dIvoire,Yamoussoukro,Transit countries,Africa,Western Africa
+384,CI,CIV,Côte dIvoire,Yamoussoukro,Transit countries,Non-conflict African states,Western Africa
+388,JM,JAM,Jamaica,Kingston,SIDS,Americas,
+388,JM,JAM,Jamaica,Kingston,SIDS,Rest of the world,
+388,JM,JAM,Jamaica,Kingston,Upper middle income,Americas,
+388,JM,JAM,Jamaica,Kingston,Upper middle income,Rest of the world,
+392,JP,JPN,Japan,Tokyo,High income,Asia,
+392,JP,JPN,Japan,Tokyo,High income,Rest of the world,
+392,JP,JPN,Japan,Tokyo,OECD member,Asia,
+392,JP,JPN,Japan,Tokyo,OECD member,Rest of the world,
+398,KZ,KAZ,Kazakhstan,Astana,LLDC,Asia,
+398,KZ,KAZ,Kazakhstan,Astana,LLDC,Rest of the world,
+398,KZ,KAZ,Kazakhstan,Astana,Oil Exporting,Asia,
+398,KZ,KAZ,Kazakhstan,Astana,Oil Exporting,Rest of the world,
+398,KZ,KAZ,Kazakhstan,Astana,Upper middle income,Asia,
+398,KZ,KAZ,Kazakhstan,Astana,Upper middle income,Rest of the world,
+400,JO,JOR,Jordan,Amman,Arab states,Asia,
+400,JO,JOR,Jordan,Amman,Arab states,Rest of the world,
+400,JO,JOR,Jordan,Amman,Upper middle income,Asia,
+400,JO,JOR,Jordan,Amman,Upper middle income,Rest of the world,
+404,KE,KEN,Kenya,Nairobi,Lower middle income,Africa,East Africa
+404,KE,KEN,Kenya,Nairobi,Lower middle income,Non-conflict African states,East Africa
+404,KE,KEN,Kenya,Nairobi,Transit countries,Africa,East Africa
+404,KE,KEN,Kenya,Nairobi,Transit countries,Non-conflict African states,East Africa
+408,KP,PRK,Democratic People's Republic of Korea,Pyongyang,Low income,Asia,
+408,KP,PRK,Democratic People's Republic of Korea,Pyongyang,Low income,Rest of the world,
+410,KR,KOR,Republic of Korea,Seoul,High income,Asia,
+410,KR,KOR,Republic of Korea,Seoul,High income,Rest of the world,
+410,KR,KOR,Republic of Korea,Seoul,OECD member,Asia,
+410,KR,KOR,Republic of Korea,Seoul,OECD member,Rest of the world,
+414,KW,KWT,Kuwait,Kuwait City,Arab states,Asia,
+414,KW,KWT,Kuwait,Kuwait City,Arab states,Rest of the world,
+414,KW,KWT,Kuwait,Kuwait City,High income,Asia,
+414,KW,KWT,Kuwait,Kuwait City,High income,Rest of the world,
+414,KW,KWT,Kuwait,Kuwait City,Oil Exporting,Asia,
+414,KW,KWT,Kuwait,Kuwait City,Oil Exporting,Rest of the world,
+417,KG,KGZ,Kyrgyzstan,Bishkek,LLDC,Asia,
+417,KG,KGZ,Kyrgyzstan,Bishkek,LLDC,Rest of the world,
+417,KG,KGZ,Kyrgyzstan,Bishkek,Lower middle income,Asia,
+417,KG,KGZ,Kyrgyzstan,Bishkek,Lower middle income,Rest of the world,
+418,LA,LAO,Lao People's Democratic Republic,Vientiane,LDC,Asia,
+418,LA,LAO,Lao People's Democratic Republic,Vientiane,LDC,Rest of the world,
+418,LA,LAO,Lao People's Democratic Republic,Vientiane,LLDC,Asia,
+418,LA,LAO,Lao People's Democratic Republic,Vientiane,LLDC,Rest of the world,
+418,LA,LAO,Lao People's Democratic Republic,Vientiane,Lower middle income,Asia,
+418,LA,LAO,Lao People's Democratic Republic,Vientiane,Lower middle income,Rest of the world,
+422,LB,LBN,Lebanon,Beirut,Arab states,Asia,
+422,LB,LBN,Lebanon,Beirut,Arab states,Rest of the world,
+422,LB,LBN,Lebanon,Beirut,Fragile and Conflict-Affected Situations,Asia,
+422,LB,LBN,Lebanon,Beirut,Fragile and Conflict-Affected Situations,Rest of the world,
+422,LB,LBN,Lebanon,Beirut,Upper middle income,Asia,
+422,LB,LBN,Lebanon,Beirut,Upper middle income,Rest of the world,
+426,LS,LSO,Lesotho,Maseru,LDC,Africa,Southern Africa
+426,LS,LSO,Lesotho,Maseru,LDC,Non-conflict African states,Southern Africa
+426,LS,LSO,Lesotho,Maseru,LLDC,Africa,Southern Africa
+426,LS,LSO,Lesotho,Maseru,LLDC,Non-conflict African states,Southern Africa
+426,LS,LSO,Lesotho,Maseru,Lower middle income,Africa,Southern Africa
+426,LS,LSO,Lesotho,Maseru,Lower middle income,Non-conflict African states,Southern Africa
+428,LV,LVA,Latvia,Riga,High income,Europe,
+428,LV,LVA,Latvia,Riga,High income,Rest of the world,
+428,LV,LVA,Latvia,Riga,OECD member,Europe,
+428,LV,LVA,Latvia,Riga,OECD member,Rest of the world,
+430,LR,LBR,Liberia,Monrovia,HIPC,Africa,Western Africa
+430,LR,LBR,Liberia,Monrovia,HIPC,Non-conflict African states,Western Africa
+430,LR,LBR,Liberia,Monrovia,LDC,Africa,Western Africa
+430,LR,LBR,Liberia,Monrovia,LDC,Non-conflict African states,Western Africa
+430,LR,LBR,Liberia,Monrovia,Low income,Africa,Western Africa
+430,LR,LBR,Liberia,Monrovia,Low income,Non-conflict African states,Western Africa
+434,LY,LBY,Libya,Tripoli,Arab states,Africa,Northern Africa
+434,LY,LBY,Libya,Tripoli,Arab states,Non-conflict African states,Northern Africa
+434,LY,LBY,Libya,Tripoli,Fragile and Conflict-Affected Situations,Africa,Northern Africa
+434,LY,LBY,Libya,Tripoli,Fragile and Conflict-Affected Situations,Non-conflict African states,Northern Africa
+434,LY,LBY,Libya,Tripoli,Oil Exporting,Africa,Northern Africa
+434,LY,LBY,Libya,Tripoli,Oil Exporting,Non-conflict African states,Northern Africa
+434,LY,LBY,Libya,Tripoli,Upper middle income,Africa,Northern Africa
+434,LY,LBY,Libya,Tripoli,Upper middle income,Non-conflict African states,Northern Africa
+438,LI,LIE,Liechtenstein,Vaduz,High income,Europe,
+438,LI,LIE,Liechtenstein,Vaduz,High income,Rest of the world,
+440,LT,LTU,Lithuania,Vilnius,High income,Europe,
+440,LT,LTU,Lithuania,Vilnius,High income,Rest of the world,
+440,LT,LTU,Lithuania,Vilnius,OECD member,Europe,
+440,LT,LTU,Lithuania,Vilnius,OECD member,Rest of the world,
+440,LT,LTU,Lithuania,Vilnius,Oil Exporting,Europe,
+440,LT,LTU,Lithuania,Vilnius,Oil Exporting,Rest of the world,
+442,LU,LUX,Luxembourg,Luxembourg,High income,Europe,
+442,LU,LUX,Luxembourg,Luxembourg,High income,Rest of the world,
+442,LU,LUX,Luxembourg,Luxembourg,OECD member,Europe,
+442,LU,LUX,Luxembourg,Luxembourg,OECD member,Rest of the world,
+446,MO,MAC,"China, Macao Special Administrative Region","",High income,Asia,
+446,MO,MAC,"China, Macao Special Administrative Region","",High income,Rest of the world,
+450,MG,MDG,Madagascar,Antananarivo,HIPC,Africa,East Africa
+450,MG,MDG,Madagascar,Antananarivo,HIPC,Non-conflict African states,East Africa
+450,MG,MDG,Madagascar,Antananarivo,LDC,Africa,East Africa
+450,MG,MDG,Madagascar,Antananarivo,LDC,Non-conflict African states,East Africa
+450,MG,MDG,Madagascar,Antananarivo,Low income,Africa,East Africa
+450,MG,MDG,Madagascar,Antananarivo,Low income,Non-conflict African states,East Africa
+454,MW,MWI,Malawi,Lilongwe,HIPC,Africa,Southern Africa
+454,MW,MWI,Malawi,Lilongwe,HIPC,Non-conflict African states,Southern Africa
+454,MW,MWI,Malawi,Lilongwe,LDC,Africa,Southern Africa
+454,MW,MWI,Malawi,Lilongwe,LDC,Non-conflict African states,Southern Africa
+454,MW,MWI,Malawi,Lilongwe,LLDC,Africa,Southern Africa
+454,MW,MWI,Malawi,Lilongwe,LLDC,Non-conflict African states,Southern Africa
+454,MW,MWI,Malawi,Lilongwe,Low income,Africa,Southern Africa
+454,MW,MWI,Malawi,Lilongwe,Low income,Non-conflict African states,Southern Africa
+458,MY,MYS,Malaysia,Kuala Lumpur,Oil Exporting,Asia,
+458,MY,MYS,Malaysia,Kuala Lumpur,Oil Exporting,Rest of the world,
+458,MY,MYS,Malaysia,Kuala Lumpur,Upper middle income,Asia,
+458,MY,MYS,Malaysia,Kuala Lumpur,Upper middle income,Rest of the world,
+462,MV,MDV,Maldives,Male,SIDS,Asia,
+462,MV,MDV,Maldives,Male,SIDS,Rest of the world,
+462,MV,MDV,Maldives,Male,Upper middle income,Asia,
+462,MV,MDV,Maldives,Male,Upper middle income,Rest of the world,
+466,ML,MLI,Mali,Bamako,Fragile and Conflict-Affected Situations,Africa,Western Africa
+466,ML,MLI,Mali,Bamako,Fragile and Conflict-Affected Situations,African Conflict-affected states,Western Africa
+466,ML,MLI,Mali,Bamako,HIPC,Africa,Western Africa
+466,ML,MLI,Mali,Bamako,HIPC,African Conflict-affected states,Western Africa
+466,ML,MLI,Mali,Bamako,LDC,Africa,Western Africa
+466,ML,MLI,Mali,Bamako,LDC,African Conflict-affected states,Western Africa
+466,ML,MLI,Mali,Bamako,LLDC,Africa,Western Africa
+466,ML,MLI,Mali,Bamako,LLDC,African Conflict-affected states,Western Africa
+466,ML,MLI,Mali,Bamako,Low income,Africa,Western Africa
+466,ML,MLI,Mali,Bamako,Low income,African Conflict-affected states,Western Africa
+470,MT,MLT,Malta,Valletta,High income,Europe,
+470,MT,MLT,Malta,Valletta,High income,Rest of the world,
+478,MR,MRT,Mauritania,Nouakchott,Arab states,Africa,Northern Africa
+478,MR,MRT,Mauritania,Nouakchott,Arab states,Non-conflict African states,Northern Africa
+478,MR,MRT,Mauritania,Nouakchott,HIPC,Africa,Northern Africa
+478,MR,MRT,Mauritania,Nouakchott,HIPC,Non-conflict African states,Northern Africa
+478,MR,MRT,Mauritania,Nouakchott,LDC,Africa,Northern Africa
+478,MR,MRT,Mauritania,Nouakchott,LDC,Non-conflict African states,Northern Africa
+478,MR,MRT,Mauritania,Nouakchott,Lower middle income,Africa,Northern Africa
+478,MR,MRT,Mauritania,Nouakchott,Lower middle income,Non-conflict African states,Northern Africa
+478,MR,MRT,Mauritania,Nouakchott,Oil Exporting,Africa,Northern Africa
+478,MR,MRT,Mauritania,Nouakchott,Oil Exporting,Non-conflict African states,Northern Africa
+480,MU,MUS,Mauritius,Port Louis,SIDS,Africa,East Africa
+480,MU,MUS,Mauritius,Port Louis,SIDS,Non-conflict African states,East Africa
+480,MU,MUS,Mauritius,Port Louis,Upper middle income,Africa,East Africa
+480,MU,MUS,Mauritius,Port Louis,Upper middle income,Non-conflict African states,East Africa
+484,MX,MEX,Mexico,Mexico City,OECD member,Americas,
+484,MX,MEX,Mexico,Mexico City,OECD member,Rest of the world,
+484,MX,MEX,Mexico,Mexico City,Oil Exporting,Americas,
+484,MX,MEX,Mexico,Mexico City,Oil Exporting,Rest of the world,
+484,MX,MEX,Mexico,Mexico City,Upper middle income,Americas,
+484,MX,MEX,Mexico,Mexico City,Upper middle income,Rest of the world,
+492,MC,MCO,Monaco,Monaco,High income,Europe,
+492,MC,MCO,Monaco,Monaco,High income,Rest of the world,
+496,MN,MNG,Mongolia,Ulaanbaatar,LLDC,Asia,
+496,MN,MNG,Mongolia,Ulaanbaatar,LLDC,Rest of the world,
+496,MN,MNG,Mongolia,Ulaanbaatar,Lower middle income,Asia,
+496,MN,MNG,Mongolia,Ulaanbaatar,Lower middle income,Rest of the world,
+496,MN,MNG,Mongolia,Ulaanbaatar,Oil Exporting,Asia,
+496,MN,MNG,Mongolia,Ulaanbaatar,Oil Exporting,Rest of the world,
+498,MD,MDA,Republic of Moldova,Chisinau,LLDC,Europe,
+498,MD,MDA,Republic of Moldova,Chisinau,LLDC,Rest of the world,
+498,MD,MDA,Republic of Moldova,Chisinau,Upper middle income,Europe,
+498,MD,MDA,Republic of Moldova,Chisinau,Upper middle income,Rest of the world,
+499,ME,MNE,Montenegro,Podgorica,Upper middle income,Europe,
+499,ME,MNE,Montenegro,Podgorica,Upper middle income,Rest of the world,
+500,MS,MSR,Montserrat,"",SIDS,Americas,
+504,MA,MAR,Morocco,Rabat,Arab states,Africa,Northern Africa
+504,MA,MAR,Morocco,Rabat,Arab states,Non-conflict African states,Northern Africa
+504,MA,MAR,Morocco,Rabat,Lower middle income,Africa,Northern Africa
+504,MA,MAR,Morocco,Rabat,Lower middle income,Non-conflict African states,Northern Africa
+508,MZ,MOZ,Mozambique,Maputo,Fragile and Conflict-Affected Situations,Africa,Southern Africa
+508,MZ,MOZ,Mozambique,Maputo,Fragile and Conflict-Affected Situations,African Conflict-affected states,Southern Africa
+508,MZ,MOZ,Mozambique,Maputo,HIPC,Africa,Southern Africa
+508,MZ,MOZ,Mozambique,Maputo,HIPC,African Conflict-affected states,Southern Africa
+508,MZ,MOZ,Mozambique,Maputo,LDC,Africa,Southern Africa
+508,MZ,MOZ,Mozambique,Maputo,LDC,African Conflict-affected states,Southern Africa
+508,MZ,MOZ,Mozambique,Maputo,Low income,Africa,Southern Africa
+508,MZ,MOZ,Mozambique,Maputo,Low income,African Conflict-affected states,Southern Africa
+508,MZ,MOZ,Mozambique,Maputo,Transit countries,Africa,Southern Africa
+508,MZ,MOZ,Mozambique,Maputo,Transit countries,African Conflict-affected states,Southern Africa
+512,OM,OMN,Oman,Muscat,Arab states,Asia,
+512,OM,OMN,Oman,Muscat,Arab states,Rest of the world,
+512,OM,OMN,Oman,Muscat,High income,Asia,
+512,OM,OMN,Oman,Muscat,High income,Rest of the world,
+512,OM,OMN,Oman,Muscat,Oil Exporting,Asia,
+512,OM,OMN,Oman,Muscat,Oil Exporting,Rest of the world,
+520,NR,NRU,Nauru,Yaren District,High income,Oceania,
+520,NR,NRU,Nauru,Yaren District,High income,Rest of the world,
+520,NR,NRU,Nauru,Yaren District,SIDS,Oceania,
+520,NR,NRU,Nauru,Yaren District,SIDS,Rest of the world,
+524,NP,NPL,Nepal,Kathmandu,LDC,Asia,
+524,NP,NPL,Nepal,Kathmandu,LDC,Rest of the world,
+524,NP,NPL,Nepal,Kathmandu,LLDC,Asia,
+524,NP,NPL,Nepal,Kathmandu,LLDC,Rest of the world,
+524,NP,NPL,Nepal,Kathmandu,Lower middle income,Asia,
+524,NP,NPL,Nepal,Kathmandu,Lower middle income,Rest of the world,
+528,NL,NLD,Netherlands (Kingdom of the),Amsterdam,High income,Europe,
+528,NL,NLD,Netherlands (Kingdom of the),Amsterdam,High income,Rest of the world,
+528,NL,NLD,Netherlands (Kingdom of the),Amsterdam,OECD member,Europe,
+528,NL,NLD,Netherlands (Kingdom of the),Amsterdam,OECD member,Rest of the world,
+528,NL,NLD,Netherlands (Kingdom of the),Amsterdam,Oil Exporting,Europe,
+528,NL,NLD,Netherlands (Kingdom of the),Amsterdam,Oil Exporting,Rest of the world,
+531,CW,CUW,Curaçao,Willemstad,High income,Americas,
+531,CW,CUW,Curaçao,Willemstad,High income,Rest of the world,
+531,CW,CUW,Curaçao,Willemstad,SIDS,Americas,
+531,CW,CUW,Curaçao,Willemstad,SIDS,Rest of the world,
+533,AW,ABW,Aruba,Oranjestad,High income,Americas,
+533,AW,ABW,Aruba,Oranjestad,High income,Rest of the world,
+533,AW,ABW,Aruba,Oranjestad,SIDS,Americas,
+533,AW,ABW,Aruba,Oranjestad,SIDS,Rest of the world,
+534,SX,SXM,Sint Maarten (Dutch part),Philipsburg,High income,Americas,
+534,SX,SXM,Sint Maarten (Dutch part),Philipsburg,High income,Rest of the world,
+534,SX,SXM,Sint Maarten (Dutch part),Philipsburg,SIDS,Americas,
+534,SX,SXM,Sint Maarten (Dutch part),Philipsburg,SIDS,Rest of the world,
+535,BQ,BES,"Bonaire, Sint Eustatius and Saba","",SIDS,Americas,
+540,NC,NCL,New Caledonia,Noum'ea,High income,Oceania,
+540,NC,NCL,New Caledonia,Noum'ea,High income,Rest of the world,
+540,NC,NCL,New Caledonia,Noum'ea,SIDS,Oceania,
+540,NC,NCL,New Caledonia,Noum'ea,SIDS,Rest of the world,
+548,VU,VUT,Vanuatu,Port-Vila,Lower middle income,Oceania,
+548,VU,VUT,Vanuatu,Port-Vila,Lower middle income,Rest of the world,
+548,VU,VUT,Vanuatu,Port-Vila,SIDS,Oceania,
+548,VU,VUT,Vanuatu,Port-Vila,SIDS,Rest of the world,
+554,NZ,NZL,New Zealand,Wellington,High income,Oceania,
+554,NZ,NZL,New Zealand,Wellington,High income,Rest of the world,
+554,NZ,NZL,New Zealand,Wellington,OECD member,Oceania,
+554,NZ,NZL,New Zealand,Wellington,OECD member,Rest of the world,
+554,NZ,NZL,New Zealand,Wellington,Oil Exporting,Oceania,
+554,NZ,NZL,New Zealand,Wellington,Oil Exporting,Rest of the world,
+558,NI,NIC,Nicaragua,Managua,HIPC,Americas,
+558,NI,NIC,Nicaragua,Managua,HIPC,Rest of the world,
+558,NI,NIC,Nicaragua,Managua,Lower middle income,Americas,
+558,NI,NIC,Nicaragua,Managua,Lower middle income,Rest of the world,
+562,NE,NER,Niger,Niamey,Fragile and Conflict-Affected Situations,Africa,Western Africa
+562,NE,NER,Niger,Niamey,Fragile and Conflict-Affected Situations,African Conflict-affected states,Western Africa
+562,NE,NER,Niger,Niamey,HIPC,Africa,Western Africa
+562,NE,NER,Niger,Niamey,HIPC,African Conflict-affected states,Western Africa
+562,NE,NER,Niger,Niamey,LDC,Africa,Western Africa
+562,NE,NER,Niger,Niamey,LDC,African Conflict-affected states,Western Africa
+562,NE,NER,Niger,Niamey,LLDC,Africa,Western Africa
+562,NE,NER,Niger,Niamey,LLDC,African Conflict-affected states,Western Africa
+562,NE,NER,Niger,Niamey,Low income,Africa,Western Africa
+562,NE,NER,Niger,Niamey,Low income,African Conflict-affected states,Western Africa
+566,NG,NGA,Nigeria,Abuja,Fragile and Conflict-Affected Situations,Africa,Western Africa
+566,NG,NGA,Nigeria,Abuja,Fragile and Conflict-Affected Situations,African Conflict-affected states,Western Africa
+566,NG,NGA,Nigeria,Abuja,Lower middle income,Africa,Western Africa
+566,NG,NGA,Nigeria,Abuja,Lower middle income,African Conflict-affected states,Western Africa
+566,NG,NGA,Nigeria,Abuja,Oil Exporting,Africa,Western Africa
+566,NG,NGA,Nigeria,Abuja,Oil Exporting,African Conflict-affected states,Western Africa
+566,NG,NGA,Nigeria,Abuja,Transit countries,Africa,Western Africa
+566,NG,NGA,Nigeria,Abuja,Transit countries,African Conflict-affected states,Western Africa
+570,NU,NIU,Niue,"",SIDS,Oceania,
+578,NO,NOR,Norway,Oslo,High income,Europe,
+578,NO,NOR,Norway,Oslo,High income,Rest of the world,
+578,NO,NOR,Norway,Oslo,OECD member,Europe,
+578,NO,NOR,Norway,Oslo,OECD member,Rest of the world,
+578,NO,NOR,Norway,Oslo,Oil Exporting,Europe,
+578,NO,NOR,Norway,Oslo,Oil Exporting,Rest of the world,
+580,MP,MNP,Northern Mariana Islands,Saipan,High income,Oceania,
+580,MP,MNP,Northern Mariana Islands,Saipan,High income,Rest of the world,
+580,MP,MNP,Northern Mariana Islands,Saipan,SIDS,Oceania,
+580,MP,MNP,Northern Mariana Islands,Saipan,SIDS,Rest of the world,
+583,FM,FSM,Micronesia (Federated States of),Palikir,Fragile and Conflict-Affected Situations,Oceania,
+583,FM,FSM,Micronesia (Federated States of),Palikir,Fragile and Conflict-Affected Situations,Rest of the world,
+583,FM,FSM,Micronesia (Federated States of),Palikir,Lower middle income,Oceania,
+583,FM,FSM,Micronesia (Federated States of),Palikir,Lower middle income,Rest of the world,
+583,FM,FSM,Micronesia (Federated States of),Palikir,SIDS,Oceania,
+583,FM,FSM,Micronesia (Federated States of),Palikir,SIDS,Rest of the world,
+584,MH,MHL,Marshall Islands,Majuro,Fragile and Conflict-Affected Situations,Oceania,
+584,MH,MHL,Marshall Islands,Majuro,Fragile and Conflict-Affected Situations,Rest of the world,
+584,MH,MHL,Marshall Islands,Majuro,SIDS,Oceania,
+584,MH,MHL,Marshall Islands,Majuro,SIDS,Rest of the world,
+584,MH,MHL,Marshall Islands,Majuro,Upper middle income,Oceania,
+584,MH,MHL,Marshall Islands,Majuro,Upper middle income,Rest of the world,
+585,PW,PLW,Palau,Koror,High income,Oceania,
+585,PW,PLW,Palau,Koror,High income,Rest of the world,
+585,PW,PLW,Palau,Koror,SIDS,Oceania,
+585,PW,PLW,Palau,Koror,SIDS,Rest of the world,
+586,PK,PAK,Pakistan,Islamabad,Lower middle income,Asia,
+586,PK,PAK,Pakistan,Islamabad,Lower middle income,Rest of the world,
+586,PK,PAK,Pakistan,Islamabad,Transit countries,Asia,
+586,PK,PAK,Pakistan,Islamabad,Transit countries,Rest of the world,
+591,PA,PAN,Panama,Panama City,Upper middle income,Americas,
+591,PA,PAN,Panama,Panama City,Upper middle income,Rest of the world,
+598,PG,PNG,Papua New Guinea,Port Moresby,Fragile and Conflict-Affected Situations,Oceania,
+598,PG,PNG,Papua New Guinea,Port Moresby,Fragile and Conflict-Affected Situations,Rest of the world,
+598,PG,PNG,Papua New Guinea,Port Moresby,Lower middle income,Oceania,
+598,PG,PNG,Papua New Guinea,Port Moresby,Lower middle income,Rest of the world,
+598,PG,PNG,Papua New Guinea,Port Moresby,Oil Exporting,Oceania,
+598,PG,PNG,Papua New Guinea,Port Moresby,Oil Exporting,Rest of the world,
+598,PG,PNG,Papua New Guinea,Port Moresby,SIDS,Oceania,
+598,PG,PNG,Papua New Guinea,Port Moresby,SIDS,Rest of the world,
+600,PY,PRY,Paraguay,Asuncion,LLDC,Americas,
+600,PY,PRY,Paraguay,Asuncion,LLDC,Rest of the world,
+600,PY,PRY,Paraguay,Asuncion,Upper middle income,Americas,
+600,PY,PRY,Paraguay,Asuncion,Upper middle income,Rest of the world,
+604,PE,PER,Peru,Lima,Oil Exporting,Americas,
+604,PE,PER,Peru,Lima,Oil Exporting,Rest of the world,
+604,PE,PER,Peru,Lima,Transit countries,Americas,
+604,PE,PER,Peru,Lima,Transit countries,Rest of the world,
+604,PE,PER,Peru,Lima,Upper middle income,Americas,
+604,PE,PER,Peru,Lima,Upper middle income,Rest of the world,
+608,PH,PHL,Philippines,Manila,Lower middle income,Asia,
+608,PH,PHL,Philippines,Manila,Lower middle income,Rest of the world,
+608,PH,PHL,Philippines,Manila,Oil Exporting,Asia,
+608,PH,PHL,Philippines,Manila,Oil Exporting,Rest of the world,
+616,PL,POL,Poland,Warsaw,High income,Europe,
+616,PL,POL,Poland,Warsaw,High income,Rest of the world,
+616,PL,POL,Poland,Warsaw,OECD member,Europe,
+616,PL,POL,Poland,Warsaw,OECD member,Rest of the world,
+616,PL,POL,Poland,Warsaw,Oil Exporting,Europe,
+616,PL,POL,Poland,Warsaw,Oil Exporting,Rest of the world,
+620,PT,PRT,Portugal,Lisbon,High income,Europe,
+620,PT,PRT,Portugal,Lisbon,High income,Rest of the world,
+620,PT,PRT,Portugal,Lisbon,OECD member,Europe,
+620,PT,PRT,Portugal,Lisbon,OECD member,Rest of the world,
+624,GW,GNB,Guinea-Bissau,Bissau,Fragile and Conflict-Affected Situations,Africa,Western Africa
+624,GW,GNB,Guinea-Bissau,Bissau,Fragile and Conflict-Affected Situations,Non-conflict African states,Western Africa
+624,GW,GNB,Guinea-Bissau,Bissau,HIPC,Africa,Western Africa
+624,GW,GNB,Guinea-Bissau,Bissau,HIPC,Non-conflict African states,Western Africa
+624,GW,GNB,Guinea-Bissau,Bissau,LDC,Africa,Western Africa
+624,GW,GNB,Guinea-Bissau,Bissau,LDC,Non-conflict African states,Western Africa
+624,GW,GNB,Guinea-Bissau,Bissau,Low income,Africa,Western Africa
+624,GW,GNB,Guinea-Bissau,Bissau,Low income,Non-conflict African states,Western Africa
+624,GW,GNB,Guinea-Bissau,Bissau,SIDS,Africa,Western Africa
+624,GW,GNB,Guinea-Bissau,Bissau,SIDS,Non-conflict African states,Western Africa
+626,TL,TLS,Timor-Leste,Dili,Fragile and Conflict-Affected Situations,Asia,
+626,TL,TLS,Timor-Leste,Dili,Fragile and Conflict-Affected Situations,Rest of the world,
+626,TL,TLS,Timor-Leste,Dili,LDC,Asia,
+626,TL,TLS,Timor-Leste,Dili,LDC,Rest of the world,
+626,TL,TLS,Timor-Leste,Dili,Lower middle income,Asia,
+626,TL,TLS,Timor-Leste,Dili,Lower middle income,Rest of the world,
+626,TL,TLS,Timor-Leste,Dili,Oil Exporting,Asia,
+626,TL,TLS,Timor-Leste,Dili,Oil Exporting,Rest of the world,
+626,TL,TLS,Timor-Leste,Dili,SIDS,Asia,
+626,TL,TLS,Timor-Leste,Dili,SIDS,Rest of the world,
+630,PR,PRI,Puerto Rico,San Juan,High income,Americas,
+630,PR,PRI,Puerto Rico,San Juan,High income,Rest of the world,
+630,PR,PRI,Puerto Rico,San Juan,SIDS,Americas,
+630,PR,PRI,Puerto Rico,San Juan,SIDS,Rest of the world,
+634,QA,QAT,Qatar,Doha,Arab states,Asia,
+634,QA,QAT,Qatar,Doha,Arab states,Rest of the world,
+634,QA,QAT,Qatar,Doha,High income,Asia,
+634,QA,QAT,Qatar,Doha,High income,Rest of the world,
+634,QA,QAT,Qatar,Doha,Oil Exporting,Asia,
+634,QA,QAT,Qatar,Doha,Oil Exporting,Rest of the world,
+642,RO,ROU,Romania,Bucharest,Upper middle income,Europe,
+642,RO,ROU,Romania,Bucharest,Upper middle income,Rest of the world,
+643,RU,RUS,Russian Federation,Moscow,Oil Exporting,Europe,
+643,RU,RUS,Russian Federation,Moscow,Oil Exporting,Rest of the world,
+643,RU,RUS,Russian Federation,Moscow,Upper middle income,Europe,
+643,RU,RUS,Russian Federation,Moscow,Upper middle income,Rest of the world,
+646,RW,RWA,Rwanda,Kigali,HIPC,Africa,East Africa
+646,RW,RWA,Rwanda,Kigali,HIPC,Non-conflict African states,East Africa
+646,RW,RWA,Rwanda,Kigali,LDC,Africa,East Africa
+646,RW,RWA,Rwanda,Kigali,LDC,Non-conflict African states,East Africa
+646,RW,RWA,Rwanda,Kigali,LLDC,Africa,East Africa
+646,RW,RWA,Rwanda,Kigali,LLDC,Non-conflict African states,East Africa
+646,RW,RWA,Rwanda,Kigali,Low income,Africa,East Africa
+646,RW,RWA,Rwanda,Kigali,Low income,Non-conflict African states,East Africa
+659,KN,KNA,Saint Kitts and Nevis,Basseterre,High income,Americas,
+659,KN,KNA,Saint Kitts and Nevis,Basseterre,High income,Rest of the world,
+659,KN,KNA,Saint Kitts and Nevis,Basseterre,SIDS,Americas,
+659,KN,KNA,Saint Kitts and Nevis,Basseterre,SIDS,Rest of the world,
+660,AI,AIA,Anguilla,"",SIDS,Americas,
+662,LC,LCA,Saint Lucia,Castries,SIDS,Americas,
+662,LC,LCA,Saint Lucia,Castries,SIDS,Rest of the world,
+662,LC,LCA,Saint Lucia,Castries,Upper middle income,Americas,
+662,LC,LCA,Saint Lucia,Castries,Upper middle income,Rest of the world,
+663,MF,MAF,Saint Martin (French Part),Marigot,High income,Americas,
+663,MF,MAF,Saint Martin (French Part),Marigot,High income,Rest of the world,
+670,VC,VCT,Saint Vincent and the Grenadines,Kingstown,SIDS,Americas,
+670,VC,VCT,Saint Vincent and the Grenadines,Kingstown,SIDS,Rest of the world,
+670,VC,VCT,Saint Vincent and the Grenadines,Kingstown,Upper middle income,Americas,
+670,VC,VCT,Saint Vincent and the Grenadines,Kingstown,Upper middle income,Rest of the world,
+674,SM,SMR,San Marino,San Marino,High income,Europe,
+674,SM,SMR,San Marino,San Marino,High income,Rest of the world,
+678,ST,STP,Sao Tome and Principe,Sao Tome,HIPC,Africa,Central Africa
+678,ST,STP,Sao Tome and Principe,Sao Tome,HIPC,Non-conflict African states,Central Africa
+678,ST,STP,Sao Tome and Principe,Sao Tome,LDC,Africa,Central Africa
+678,ST,STP,Sao Tome and Principe,Sao Tome,LDC,Non-conflict African states,Central Africa
+678,ST,STP,Sao Tome and Principe,Sao Tome,Lower middle income,Africa,Central Africa
+678,ST,STP,Sao Tome and Principe,Sao Tome,Lower middle income,Non-conflict African states,Central Africa
+678,ST,STP,Sao Tome and Principe,Sao Tome,SIDS,Africa,Central Africa
+678,ST,STP,Sao Tome and Principe,Sao Tome,SIDS,Non-conflict African states,Central Africa
+682,SA,SAU,Saudi Arabia,Riyadh,Arab states,Asia,
+682,SA,SAU,Saudi Arabia,Riyadh,Arab states,Rest of the world,
+682,SA,SAU,Saudi Arabia,Riyadh,High income,Asia,
+682,SA,SAU,Saudi Arabia,Riyadh,High income,Rest of the world,
+682,SA,SAU,Saudi Arabia,Riyadh,Oil Exporting,Asia,
+682,SA,SAU,Saudi Arabia,Riyadh,Oil Exporting,Rest of the world,
+686,SN,SEN,Senegal,Dakar,HIPC,Africa,Western Africa
+686,SN,SEN,Senegal,Dakar,HIPC,Non-conflict African states,Western Africa
+686,SN,SEN,Senegal,Dakar,LDC,Africa,Western Africa
+686,SN,SEN,Senegal,Dakar,LDC,Non-conflict African states,Western Africa
+686,SN,SEN,Senegal,Dakar,Lower middle income,Africa,Western Africa
+686,SN,SEN,Senegal,Dakar,Lower middle income,Non-conflict African states,Western Africa
+686,SN,SEN,Senegal,Dakar,Transit countries,Africa,Western Africa
+686,SN,SEN,Senegal,Dakar,Transit countries,Non-conflict African states,Western Africa
+688,RS,SRB,Serbia,Belgrade,Upper middle income,Europe,
+688,RS,SRB,Serbia,Belgrade,Upper middle income,Rest of the world,
+690,SC,SYC,Seychelles,Victoria,High income,Africa,East Africa
+690,SC,SYC,Seychelles,Victoria,High income,Non-conflict African states,East Africa
+690,SC,SYC,Seychelles,Victoria,SIDS,Africa,East Africa
+690,SC,SYC,Seychelles,Victoria,SIDS,Non-conflict African states,East Africa
+694,SL,SLE,Sierra Leone,Freetown,HIPC,Africa,Western Africa
+694,SL,SLE,Sierra Leone,Freetown,HIPC,Non-conflict African states,Western Africa
+694,SL,SLE,Sierra Leone,Freetown,LDC,Africa,Western Africa
+694,SL,SLE,Sierra Leone,Freetown,LDC,Non-conflict African states,Western Africa
+694,SL,SLE,Sierra Leone,Freetown,Low income,Africa,Western Africa
+694,SL,SLE,Sierra Leone,Freetown,Low income,Non-conflict African states,Western Africa
+702,SG,SGP,Singapore,Singapore,High income,Asia,
+702,SG,SGP,Singapore,Singapore,High income,Rest of the world,
+702,SG,SGP,Singapore,Singapore,SIDS,Asia,
+702,SG,SGP,Singapore,Singapore,SIDS,Rest of the world,
+703,SK,SVK,Slovakia,Bratislava,High income,Europe,
+703,SK,SVK,Slovakia,Bratislava,High income,Rest of the world,
+703,SK,SVK,Slovakia,Bratislava,OECD member,Europe,
+703,SK,SVK,Slovakia,Bratislava,OECD member,Rest of the world,
+703,SK,SVK,Slovakia,Bratislava,Oil Exporting,Europe,
+703,SK,SVK,Slovakia,Bratislava,Oil Exporting,Rest of the world,
+704,VN,VNM,Viet Nam,Hanoi,Lower middle income,Asia,
+704,VN,VNM,Viet Nam,Hanoi,Lower middle income,Rest of the world,
+704,VN,VNM,Viet Nam,Hanoi,Oil Exporting,Asia,
+704,VN,VNM,Viet Nam,Hanoi,Oil Exporting,Rest of the world,
+704,VN,VNM,Viet Nam,Hanoi,Transit countries,Asia,
+704,VN,VNM,Viet Nam,Hanoi,Transit countries,Rest of the world,
+705,SI,SVN,Slovenia,Ljubljana,High income,Europe,
+705,SI,SVN,Slovenia,Ljubljana,High income,Rest of the world,
+705,SI,SVN,Slovenia,Ljubljana,OECD member,Europe,
+705,SI,SVN,Slovenia,Ljubljana,OECD member,Rest of the world,
+706,SO,SOM,Somalia,Mogadishu,Arab states,Africa,East Africa
+706,SO,SOM,Somalia,Mogadishu,Arab states,African Conflict-affected states,East Africa
+706,SO,SOM,Somalia,Mogadishu,Fragile and Conflict-Affected Situations,Africa,East Africa
+706,SO,SOM,Somalia,Mogadishu,Fragile and Conflict-Affected Situations,African Conflict-affected states,East Africa
+706,SO,SOM,Somalia,Mogadishu,HIPC,Africa,East Africa
+706,SO,SOM,Somalia,Mogadishu,HIPC,African Conflict-affected states,East Africa
+706,SO,SOM,Somalia,Mogadishu,LDC,Africa,East Africa
+706,SO,SOM,Somalia,Mogadishu,LDC,African Conflict-affected states,East Africa
+706,SO,SOM,Somalia,Mogadishu,Low income,Africa,East Africa
+706,SO,SOM,Somalia,Mogadishu,Low income,African Conflict-affected states,East Africa
+706,SO,SOM,Somalia,Mogadishu,Transit countries,Africa,East Africa
+706,SO,SOM,Somalia,Mogadishu,Transit countries,African Conflict-affected states,East Africa
+710,ZA,ZAF,South Africa,Pretoria,Transit countries,Africa,Southern Africa
+710,ZA,ZAF,South Africa,Pretoria,Transit countries,Non-conflict African states,Southern Africa
+710,ZA,ZAF,South Africa,Pretoria,Upper middle income,Africa,Southern Africa
+710,ZA,ZAF,South Africa,Pretoria,Upper middle income,Non-conflict African states,Southern Africa
+716,ZW,ZWE,Zimbabwe,Harare,Fragile and Conflict-Affected Situations,Africa,Southern Africa
+716,ZW,ZWE,Zimbabwe,Harare,Fragile and Conflict-Affected Situations,Non-conflict African states,Southern Africa
+716,ZW,ZWE,Zimbabwe,Harare,LLDC,Africa,Southern Africa
+716,ZW,ZWE,Zimbabwe,Harare,LLDC,Non-conflict African states,Southern Africa
+716,ZW,ZWE,Zimbabwe,Harare,Lower middle income,Africa,Southern Africa
+716,ZW,ZWE,Zimbabwe,Harare,Lower middle income,Non-conflict African states,Southern Africa
+724,ES,ESP,Spain,Madrid,High income,Europe,
+724,ES,ESP,Spain,Madrid,High income,Rest of the world,
+724,ES,ESP,Spain,Madrid,OECD member,Europe,
+724,ES,ESP,Spain,Madrid,OECD member,Rest of the world,
+728,SS,SSD,South Sudan,Juba,Fragile and Conflict-Affected Situations,Africa,East Africa
+728,SS,SSD,South Sudan,Juba,Fragile and Conflict-Affected Situations,African Conflict-affected states,East Africa
+728,SS,SSD,South Sudan,Juba,LDC,Africa,East Africa
+728,SS,SSD,South Sudan,Juba,LDC,African Conflict-affected states,East Africa
+728,SS,SSD,South Sudan,Juba,LLDC,Africa,East Africa
+728,SS,SSD,South Sudan,Juba,LLDC,African Conflict-affected states,East Africa
+728,SS,SSD,South Sudan,Juba,Low income,Africa,East Africa
+728,SS,SSD,South Sudan,Juba,Low income,African Conflict-affected states,East Africa
+728,SS,SSD,South Sudan,Juba,Oil Exporting,Africa,East Africa
+728,SS,SSD,South Sudan,Juba,Oil Exporting,African Conflict-affected states,East Africa
+729,SD,SDN,Sudan,Khartoum,Arab states,Africa,East Africa
+729,SD,SDN,Sudan,Khartoum,Arab states,African Conflict-affected states,East Africa
+729,SD,SDN,Sudan,Khartoum,Fragile and Conflict-Affected Situations,Africa,East Africa
+729,SD,SDN,Sudan,Khartoum,Fragile and Conflict-Affected Situations,African Conflict-affected states,East Africa
+729,SD,SDN,Sudan,Khartoum,HIPC,Africa,East Africa
+729,SD,SDN,Sudan,Khartoum,HIPC,African Conflict-affected states,East Africa
+729,SD,SDN,Sudan,Khartoum,LDC,Africa,East Africa
+729,SD,SDN,Sudan,Khartoum,LDC,African Conflict-affected states,East Africa
+729,SD,SDN,Sudan,Khartoum,Low income,Africa,East Africa
+729,SD,SDN,Sudan,Khartoum,Low income,African Conflict-affected states,East Africa
+729,SD,SDN,Sudan,Khartoum,Oil Exporting,Africa,East Africa
+729,SD,SDN,Sudan,Khartoum,Oil Exporting,African Conflict-affected states,East Africa
+740,SR,SUR,Suriname,Paramaribo,Oil Exporting,Americas,
+740,SR,SUR,Suriname,Paramaribo,Oil Exporting,Rest of the world,
+740,SR,SUR,Suriname,Paramaribo,SIDS,Americas,
+740,SR,SUR,Suriname,Paramaribo,SIDS,Rest of the world,
+740,SR,SUR,Suriname,Paramaribo,Upper middle income,Americas,
+740,SR,SUR,Suriname,Paramaribo,Upper middle income,Rest of the world,
+748,SZ,SWZ,Eswatini,Mbabane,LLDC,Africa,Southern Africa
+748,SZ,SWZ,Eswatini,Mbabane,LLDC,Non-conflict African states,Southern Africa
+748,SZ,SWZ,Eswatini,Mbabane,Lower middle income,Africa,Southern Africa
+748,SZ,SWZ,Eswatini,Mbabane,Lower middle income,Non-conflict African states,Southern Africa
+752,SE,SWE,Sweden,Stockholm,High income,Europe,
+752,SE,SWE,Sweden,Stockholm,High income,Rest of the world,
+752,SE,SWE,Sweden,Stockholm,OECD member,Europe,
+752,SE,SWE,Sweden,Stockholm,OECD member,Rest of the world,
+756,CH,CHE,Switzerland,Bern,High income,Europe,
+756,CH,CHE,Switzerland,Bern,High income,Rest of the world,
+756,CH,CHE,Switzerland,Bern,OECD member,Europe,
+756,CH,CHE,Switzerland,Bern,OECD member,Rest of the world,
+760,SY,SYR,Syrian Arab Republic,Damascus,Arab states,Asia,
+760,SY,SYR,Syrian Arab Republic,Damascus,Arab states,Rest of the world,
+760,SY,SYR,Syrian Arab Republic,Damascus,Fragile and Conflict-Affected Situations,Asia,
+760,SY,SYR,Syrian Arab Republic,Damascus,Fragile and Conflict-Affected Situations,Rest of the world,
+760,SY,SYR,Syrian Arab Republic,Damascus,Low income,Asia,
+760,SY,SYR,Syrian Arab Republic,Damascus,Low income,Rest of the world,
+760,SY,SYR,Syrian Arab Republic,Damascus,Oil Exporting,Asia,
+760,SY,SYR,Syrian Arab Republic,Damascus,Oil Exporting,Rest of the world,
+762,TJ,TJK,Tajikistan,Dushanbe,LLDC,Asia,
+762,TJ,TJK,Tajikistan,Dushanbe,LLDC,Rest of the world,
+762,TJ,TJK,Tajikistan,Dushanbe,Lower middle income,Asia,
+762,TJ,TJK,Tajikistan,Dushanbe,Lower middle income,Rest of the world,
+764,TH,THA,Thailand,Bangkok,Oil Exporting,Asia,
+764,TH,THA,Thailand,Bangkok,Oil Exporting,Rest of the world,
+764,TH,THA,Thailand,Bangkok,Transit countries,Asia,
+764,TH,THA,Thailand,Bangkok,Transit countries,Rest of the world,
+764,TH,THA,Thailand,Bangkok,Upper middle income,Asia,
+764,TH,THA,Thailand,Bangkok,Upper middle income,Rest of the world,
+768,TG,TGO,Togo,Lome,HIPC,Africa,Western Africa
+768,TG,TGO,Togo,Lome,HIPC,Non-conflict African states,Western Africa
+768,TG,TGO,Togo,Lome,LDC,Africa,Western Africa
+768,TG,TGO,Togo,Lome,LDC,Non-conflict African states,Western Africa
+768,TG,TGO,Togo,Lome,Low income,Africa,Western Africa
+768,TG,TGO,Togo,Lome,Low income,Non-conflict African states,Western Africa
+768,TG,TGO,Togo,Lome,Transit countries,Africa,Western Africa
+768,TG,TGO,Togo,Lome,Transit countries,Non-conflict African states,Western Africa
+776,TO,TON,Tonga,Nuku'alofa,SIDS,Oceania,
+776,TO,TON,Tonga,Nuku'alofa,SIDS,Rest of the world,
+776,TO,TON,Tonga,Nuku'alofa,Upper middle income,Oceania,
+776,TO,TON,Tonga,Nuku'alofa,Upper middle income,Rest of the world,
+780,TT,TTO,Trinidad and Tobago,Port-of-Spain,High income,Americas,
+780,TT,TTO,Trinidad and Tobago,Port-of-Spain,High income,Rest of the world,
+780,TT,TTO,Trinidad and Tobago,Port-of-Spain,Oil Exporting,Americas,
+780,TT,TTO,Trinidad and Tobago,Port-of-Spain,Oil Exporting,Rest of the world,
+780,TT,TTO,Trinidad and Tobago,Port-of-Spain,SIDS,Americas,
+780,TT,TTO,Trinidad and Tobago,Port-of-Spain,SIDS,Rest of the world,
+784,AE,ARE,United Arab Emirates,Abu Dhabi,Arab states,Asia,
+784,AE,ARE,United Arab Emirates,Abu Dhabi,Arab states,Rest of the world,
+784,AE,ARE,United Arab Emirates,Abu Dhabi,High income,Asia,
+784,AE,ARE,United Arab Emirates,Abu Dhabi,High income,Rest of the world,
+784,AE,ARE,United Arab Emirates,Abu Dhabi,Oil Exporting,Asia,
+784,AE,ARE,United Arab Emirates,Abu Dhabi,Oil Exporting,Rest of the world,
+788,TN,TUN,Tunisia,Tunis,Arab states,Africa,Northern Africa
+788,TN,TUN,Tunisia,Tunis,Arab states,Non-conflict African states,Northern Africa
+788,TN,TUN,Tunisia,Tunis,Lower middle income,Africa,Northern Africa
+788,TN,TUN,Tunisia,Tunis,Lower middle income,Non-conflict African states,Northern Africa
+788,TN,TUN,Tunisia,Tunis,Oil Exporting,Africa,Northern Africa
+788,TN,TUN,Tunisia,Tunis,Oil Exporting,Non-conflict African states,Northern Africa
+792,TR,TUR,Türkiye,Ankara,OECD member,Asia,
+792,TR,TUR,Türkiye,Ankara,OECD member,Rest of the world,
+792,TR,TUR,Türkiye,Ankara,Transit countries,Asia,
+792,TR,TUR,Türkiye,Ankara,Transit countries,Rest of the world,
+792,TR,TUR,Türkiye,Ankara,Upper middle income,Asia,
+792,TR,TUR,Türkiye,Ankara,Upper middle income,Rest of the world,
+795,TM,TKM,Turkmenistan,Ashgabat,LLDC,Asia,
+795,TM,TKM,Turkmenistan,Ashgabat,LLDC,Rest of the world,
+795,TM,TKM,Turkmenistan,Ashgabat,Oil Exporting,Asia,
+795,TM,TKM,Turkmenistan,Ashgabat,Oil Exporting,Rest of the world,
+795,TM,TKM,Turkmenistan,Ashgabat,Upper middle income,Asia,
+795,TM,TKM,Turkmenistan,Ashgabat,Upper middle income,Rest of the world,
+796,TC,TCA,Turks and Caicos Islands,Grand Turk,High income,Americas,
+796,TC,TCA,Turks and Caicos Islands,Grand Turk,High income,Rest of the world,
+798,TV,TUV,Tuvalu,Funafuti,Fragile and Conflict-Affected Situations,Oceania,
+798,TV,TUV,Tuvalu,Funafuti,Fragile and Conflict-Affected Situations,Rest of the world,
+798,TV,TUV,Tuvalu,Funafuti,LDC,Oceania,
+798,TV,TUV,Tuvalu,Funafuti,LDC,Rest of the world,
+798,TV,TUV,Tuvalu,Funafuti,SIDS,Oceania,
+798,TV,TUV,Tuvalu,Funafuti,SIDS,Rest of the world,
+798,TV,TUV,Tuvalu,Funafuti,Upper middle income,Oceania,
+798,TV,TUV,Tuvalu,Funafuti,Upper middle income,Rest of the world,
+800,UG,UGA,Uganda,Kampala,HIPC,Africa,East Africa
+800,UG,UGA,Uganda,Kampala,HIPC,Non-conflict African states,East Africa
+800,UG,UGA,Uganda,Kampala,LDC,Africa,East Africa
+800,UG,UGA,Uganda,Kampala,LDC,Non-conflict African states,East Africa
+800,UG,UGA,Uganda,Kampala,LLDC,Africa,East Africa
+800,UG,UGA,Uganda,Kampala,LLDC,Non-conflict African states,East Africa
+800,UG,UGA,Uganda,Kampala,Low income,Africa,East Africa
+800,UG,UGA,Uganda,Kampala,Low income,Non-conflict African states,East Africa
+804,UA,UKR,Ukraine,Kiev,Lower middle income,Europe,
+804,UA,UKR,Ukraine,Kiev,Lower middle income,Rest of the world,
+807,MK,MKD,North Macedonia,Skopje,LLDC,Europe,
+807,MK,MKD,North Macedonia,Skopje,LLDC,Rest of the world,
+807,MK,MKD,North Macedonia,Skopje,Upper middle income,Europe,
+807,MK,MKD,North Macedonia,Skopje,Upper middle income,Rest of the world,
+818,EG,EGY,Egypt,Cairo,Arab states,Africa,Northern Africa
+818,EG,EGY,Egypt,Cairo,Arab states,Non-conflict African states,Northern Africa
+818,EG,EGY,Egypt,Cairo,Lower middle income,Africa,Northern Africa
+818,EG,EGY,Egypt,Cairo,Lower middle income,Non-conflict African states,Northern Africa
+818,EG,EGY,Egypt,Cairo,Oil Exporting,Africa,Northern Africa
+818,EG,EGY,Egypt,Cairo,Oil Exporting,Non-conflict African states,Northern Africa
+826,GB,GBR,United Kingdom of Great Britain and Northern Ireland,London,High income,Europe,
+826,GB,GBR,United Kingdom of Great Britain and Northern Ireland,London,High income,Rest of the world,
+826,GB,GBR,United Kingdom of Great Britain and Northern Ireland,London,OECD member,Europe,
+826,GB,GBR,United Kingdom of Great Britain and Northern Ireland,London,OECD member,Rest of the world,
+826,GB,GBR,United Kingdom of Great Britain and Northern Ireland,London,Oil Exporting,Europe,
+826,GB,GBR,United Kingdom of Great Britain and Northern Ireland,London,Oil Exporting,Rest of the world,
+833,IM,IMN,Isle of Man,Douglas,High income,Europe,
+833,IM,IMN,Isle of Man,Douglas,High income,Rest of the world,
+834,TZ,TZA,United Republic of Tanzania,Dodoma,HIPC,Africa,East Africa
+834,TZ,TZA,United Republic of Tanzania,Dodoma,HIPC,Non-conflict African states,East Africa
+834,TZ,TZA,United Republic of Tanzania,Dodoma,LDC,Africa,East Africa
+834,TZ,TZA,United Republic of Tanzania,Dodoma,LDC,Non-conflict African states,East Africa
+834,TZ,TZA,United Republic of Tanzania,Dodoma,Lower middle income,Africa,East Africa
+834,TZ,TZA,United Republic of Tanzania,Dodoma,Lower middle income,Non-conflict African states,East Africa
+834,TZ,TZA,United Republic of Tanzania,Dodoma,Transit countries,Africa,East Africa
+834,TZ,TZA,United Republic of Tanzania,Dodoma,Transit countries,Non-conflict African states,East Africa
+840,US,USA,United States of America,Washington D.C.,High income,Americas,
+840,US,USA,United States of America,Washington D.C.,High income,Rest of the world,
+840,US,USA,United States of America,Washington D.C.,OECD member,Americas,
+840,US,USA,United States of America,Washington D.C.,OECD member,Rest of the world,
+840,US,USA,United States of America,Washington D.C.,Oil Exporting,Americas,
+840,US,USA,United States of America,Washington D.C.,Oil Exporting,Rest of the world,
+850,VI,VIR,United States Virgin Islands,Charlotte Amalie,High income,Americas,
+850,VI,VIR,United States Virgin Islands,Charlotte Amalie,High income,Rest of the world,
+850,VI,VIR,United States Virgin Islands,Charlotte Amalie,SIDS,Americas,
+850,VI,VIR,United States Virgin Islands,Charlotte Amalie,SIDS,Rest of the world,
+854,BF,BFA,Burkina Faso,Ouagadougou,Fragile and Conflict-Affected Situations,Africa,Western Africa
+854,BF,BFA,Burkina Faso,Ouagadougou,Fragile and Conflict-Affected Situations,African Conflict-affected states,Western Africa
+854,BF,BFA,Burkina Faso,Ouagadougou,HIPC,Africa,Western Africa
+854,BF,BFA,Burkina Faso,Ouagadougou,HIPC,African Conflict-affected states,Western Africa
+854,BF,BFA,Burkina Faso,Ouagadougou,LDC,Africa,Western Africa
+854,BF,BFA,Burkina Faso,Ouagadougou,LDC,African Conflict-affected states,Western Africa
+854,BF,BFA,Burkina Faso,Ouagadougou,LLDC,Africa,Western Africa
+854,BF,BFA,Burkina Faso,Ouagadougou,LLDC,African Conflict-affected states,Western Africa
+854,BF,BFA,Burkina Faso,Ouagadougou,Low income,Africa,Western Africa
+854,BF,BFA,Burkina Faso,Ouagadougou,Low income,African Conflict-affected states,Western Africa
+858,UY,URY,Uruguay,Montevideo,High income,Americas,
+858,UY,URY,Uruguay,Montevideo,High income,Rest of the world,
+858,UY,URY,Uruguay,Montevideo,Transit countries,Americas,
+858,UY,URY,Uruguay,Montevideo,Transit countries,Rest of the world,
+860,UZ,UZB,Uzbekistan,Tashkent,LLDC,Asia,
+860,UZ,UZB,Uzbekistan,Tashkent,LLDC,Rest of the world,
+860,UZ,UZB,Uzbekistan,Tashkent,Lower middle income,Asia,
+860,UZ,UZB,Uzbekistan,Tashkent,Lower middle income,Rest of the world,
+862,VE,VEN,Venezuela (Bolivarian Republic of),Caracas,Fragile and Conflict-Affected Situations,Americas,
+862,VE,VEN,Venezuela (Bolivarian Republic of),Caracas,Fragile and Conflict-Affected Situations,Rest of the world,
+862,VE,VEN,Venezuela (Bolivarian Republic of),Caracas,Oil Exporting,Americas,
+862,VE,VEN,Venezuela (Bolivarian Republic of),Caracas,Oil Exporting,Rest of the world,
+882,WS,WSM,Samoa,Apia,Lower middle income,Oceania,
+882,WS,WSM,Samoa,Apia,Lower middle income,Rest of the world,
+882,WS,WSM,Samoa,Apia,SIDS,Oceania,
+882,WS,WSM,Samoa,Apia,SIDS,Rest of the world,
+887,YE,YEM,Yemen,Sana'a,Arab states,Asia,
+887,YE,YEM,Yemen,Sana'a,Arab states,Rest of the world,
+887,YE,YEM,Yemen,Sana'a,Fragile and Conflict-Affected Situations,Asia,
+887,YE,YEM,Yemen,Sana'a,Fragile and Conflict-Affected Situations,Rest of the world,
+887,YE,YEM,Yemen,Sana'a,LDC,Asia,
+887,YE,YEM,Yemen,Sana'a,LDC,Rest of the world,
+887,YE,YEM,Yemen,Sana'a,Low income,Asia,
+887,YE,YEM,Yemen,Sana'a,Low income,Rest of the world,
+887,YE,YEM,Yemen,Sana'a,Oil Exporting,Asia,
+887,YE,YEM,Yemen,Sana'a,Oil Exporting,Rest of the world,
+894,ZM,ZMB,Zambia,Lusaka,HIPC,Africa,Southern Africa
+894,ZM,ZMB,Zambia,Lusaka,HIPC,Non-conflict African states,Southern Africa
+894,ZM,ZMB,Zambia,Lusaka,LDC,Africa,Southern Africa
+894,ZM,ZMB,Zambia,Lusaka,LDC,Non-conflict African states,Southern Africa
+894,ZM,ZMB,Zambia,Lusaka,LLDC,Africa,Southern Africa
+894,ZM,ZMB,Zambia,Lusaka,LLDC,Non-conflict African states,Southern Africa
+894,ZM,ZMB,Zambia,Lusaka,Lower middle income,Africa,Southern Africa
+894,ZM,ZMB,Zambia,Lusaka,Lower middle income,Non-conflict African states,Southern Africa
